@@ -1,0 +1,1802 @@
+[
+  {
+    "question_id": "HUIT_001",
+    "source": "HUIT-verified-curated",
+    "text": "Trường Đại học Công Thương Thành phố Hồ Chí Minh có cơ sở chính đặt tại số 140 đường Lê Trọng Tấn, phường Tây Thạnh, quận Tân Phú.",
+    "char_len": 130,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "hoc_phi"
+  },
+  {
+    "question_id": "HUIT_002",
+    "source": "HUIT-verified-curated",
+    "text": "Đơn giá học phí tại HUIT được thu theo hình thức tín chỉ, áp dụng theo từng ngành và chương trình đào tạo của nhà trường.",
+    "char_len": 121,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "hoc_phi"
+  },
+  {
+    "question_id": "HUIT_003",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên có thể tra cứu học phí và thanh toán trực tuyến qua cổng thông tin portal.huit.edu.vn hoặc nộp trực tiếp tại phòng Kế hoạch - Tài chính.",
+    "char_len": 146,
+    "word_count": 29,
+    "is_placeholder": false,
+    "domain": "hoc_phi"
+  },
+  {
+    "question_id": "HUIT_004",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên thuộc diện chính sách, hộ nghèo hoặc cận nghèo được xem xét miễn giảm học phí theo quy định hiện hành của Nhà nước.",
+    "char_len": 125,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "hoc_phi"
+  },
+  {
+    "question_id": "HUIT_005",
+    "source": "HUIT-verified-curated",
+    "text": "Học phí phải được nộp đúng thời hạn quy định trong thông báo đầu mỗi học kỳ để không bị hủy kết quả đăng ký học phần.",
+    "char_len": 117,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "hoc_phi"
+  },
+  {
+    "question_id": "HUIT_006",
+    "source": "HUIT-verified-curated",
+    "text": "Học phí các ngành chương trình chất lượng cao và định hướng quốc tế tại HUIT cao hơn so với chương trình đại trà chuẩn.",
+    "char_len": 119,
+    "word_count": 25,
+    "is_placeholder": false,
+    "domain": "hoc_phi"
+  },
+  {
+    "question_id": "HUIT_007",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên nộp đơn xin rút môn học trong 2 tuần đầu học kỳ sẽ được giải quyết hoàn phí theo quy chế tài chính của nhà trường.",
+    "char_len": 124,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "hoc_phi"
+  },
+  {
+    "question_id": "HUIT_008",
+    "source": "HUIT-verified-curated",
+    "text": "Phòng Kế hoạch - Tài chính HUIT làm việc từ thứ Hai đến thứ Sáu trong giờ hành chính để hỗ trợ sinh viên các thủ tục công nợ.",
+    "char_len": 125,
+    "word_count": 29,
+    "is_placeholder": false,
+    "domain": "hoc_phi"
+  },
+  {
+    "question_id": "HUIT_009",
+    "source": "HUIT-verified-curated",
+    "text": "Nhà trường xét trao học bổng khuyến khích học tập vào cuối mỗi học kỳ chính cho sinh viên đạt điểm rèn luyện và học tập từ loại khá trở lên.",
+    "char_len": 140,
+    "word_count": 31,
+    "is_placeholder": false,
+    "domain": "hoc_phi"
+  },
+  {
+    "question_id": "HUIT_010",
+    "source": "HUIT-verified-curated",
+    "text": "Học bổng tài trợ từ doanh nghiệp và các tổ chức đối tác của HUIT được phân bổ về các khoa chuyên ngành hàng năm.",
+    "char_len": 112,
+    "word_count": 25,
+    "is_placeholder": false,
+    "domain": "hoc_phi"
+  },
+  {
+    "question_id": "HUIT_011",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên có thể xin xác nhận để làm thủ tục vay vốn tín dụng sinh viên tại Ngân hàng Chính sách Xã hội theo quy định.",
+    "char_len": 118,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "hoc_phi"
+  },
+  {
+    "question_id": "HUIT_012",
+    "source": "HUIT-verified-curated",
+    "text": "Mức học phí toàn khóa và lộ trình tăng học phí tối đa hàng năm được nhà trường công khai minh bạch trong đề án tuyển sinh.",
+    "char_len": 122,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "hoc_phi"
+  },
+  {
+    "question_id": "HUIT_013",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên nợ học phí quá hạn sẽ bị khóa quyền truy cập vào hệ thống đăng ký học phần và xem kết quả thi trực tuyến.",
+    "char_len": 115,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "hoc_phi"
+  },
+  {
+    "question_id": "HUIT_014",
+    "source": "HUIT-verified-curated",
+    "text": "Các khoản thu bảo hiểm y tế bắt buộc và bảo hiểm thân thể được thông báo và thu cùng đợt với học phí học kỳ một.",
+    "char_len": 112,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "hoc_phi"
+  },
+  {
+    "question_id": "HUIT_015",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên liên hệ bộ phận hỗ trợ tài chính tại cơ sở Lê Trọng Tấn khi gặp sự cố trừ tiền nhưng chưa cập nhật học phí trên portal.",
+    "char_len": 129,
+    "word_count": 30,
+    "is_placeholder": false,
+    "domain": "hoc_phi"
+  },
+  {
+    "question_id": "HUIT_016",
+    "source": "HUIT-verified-curated",
+    "text": "Thời gian đăng ký học phần được Phòng Đào tạo HUIT mở theo từng đợt, ưu tiên sinh viên năm cuối và sinh viên theo đúng tiến độ.",
+    "char_len": 127,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "dang_ky_hoc_phan"
+  },
+  {
+    "question_id": "HUIT_017",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên thực hiện đăng ký môn học trực tuyến tại trang web quản trị đào tạo theo tài khoản mã số sinh viên được cấp.",
+    "char_len": 118,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "dang_ky_hoc_phan"
+  },
+  {
+    "question_id": "HUIT_018",
+    "source": "HUIT-verified-curated",
+    "text": "Mỗi học kỳ chính, sinh viên được phép đăng ký số lượng tín chỉ dao động từ tối thiểu 12 tín chỉ đến tối đa 24 tín chỉ.",
+    "char_len": 118,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "dang_ky_hoc_phan"
+  },
+  {
+    "question_id": "HUIT_019",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên có nhu cầu học vượt hoặc đăng ký trên 25 tín chỉ phải làm đơn và có xác nhận đồng ý của cố vấn học tập phụ trách.",
+    "char_len": 123,
+    "word_count": 30,
+    "is_placeholder": false,
+    "domain": "dang_ky_hoc_phan"
+  },
+  {
+    "question_id": "HUIT_020",
+    "source": "HUIT-verified-curated",
+    "text": "Các môn học có điều kiện tiên quyết yêu cầu sinh viên phải hoàn thành và đạt điểm từ điểm D trở lên mới được đăng ký tiếp.",
+    "char_len": 122,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "dang_ky_hoc_phan"
+  },
+  {
+    "question_id": "HUIT_021",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên cần kiểm tra kỹ thời khóa biểu để tránh việc đăng ký trùng lịch học hoặc trùng phòng thực hành giữa các nhóm.",
+    "char_len": 119,
+    "word_count": 25,
+    "is_placeholder": false,
+    "domain": "dang_ky_hoc_phan"
+  },
+  {
+    "question_id": "HUIT_022",
+    "source": "HUIT-verified-curated",
+    "text": "Sau đợt đăng ký chính thức, sinh viên có thể đăng ký bổ sung hoặc hủy môn trong thời gian hiệu chỉnh học phần theo thông báo.",
+    "char_len": 125,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "dang_ky_hoc_phan"
+  },
+  {
+    "question_id": "HUIT_023",
+    "source": "HUIT-verified-curated",
+    "text": "Nếu lớp học phần không đủ số lượng sinh viên tối thiểu theo quy định, Phòng Đào tạo sẽ thông báo hủy lớp để chuyển sang lớp khác.",
+    "char_len": 129,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "dang_ky_hoc_phan"
+  },
+  {
+    "question_id": "HUIT_024",
+    "source": "HUIT-verified-curated",
+    "text": "Lịch thi kết thúc học phần được công bố trên hệ thống portal trước ngày thi ít nhất 2 tuần để sinh viên chủ động ôn tập.",
+    "char_len": 120,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "dang_ky_hoc_phan"
+  },
+  {
+    "question_id": "HUIT_025",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên dự thi phải mang theo thẻ sinh viên có dán ảnh hoặc căn cước công dân hợp lệ để cán bộ coi thi đối chiếu.",
+    "char_len": 115,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "dang_ky_hoc_phan"
+  },
+  {
+    "question_id": "HUIT_026",
+    "source": "HUIT-verified-curated",
+    "text": "Trường hợp bị trùng lịch thi cuối kỳ, sinh viên làm đơn hoãn thi nộp về văn phòng khoa chuyên ngành trước ngày thi.",
+    "char_len": 115,
+    "word_count": 24,
+    "is_placeholder": false,
+    "domain": "dang_ky_hoc_phan"
+  },
+  {
+    "question_id": "HUIT_027",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên vắng thi không có lý do chính đáng sẽ nhận điểm không cho cột điểm thi cuối kỳ của học phần tương ứng.",
+    "char_len": 112,
+    "word_count": 25,
+    "is_placeholder": false,
+    "domain": "dang_ky_hoc_phan"
+  },
+  {
+    "question_id": "HUIT_028",
+    "source": "HUIT-verified-curated",
+    "text": "Cố vấn học tập theo dõi tiến độ đào tạo và hướng dẫn sinh viên lập kế hoạch học tập chi tiết trong từng năm học.",
+    "char_len": 112,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "dang_ky_hoc_phan"
+  },
+  {
+    "question_id": "HUIT_029",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên học lại để cải thiện điểm các học phần bị điểm F hoặc muốn nâng điểm trung bình tích lũy theo quy chế tín chỉ.",
+    "char_len": 120,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "dang_ky_hoc_phan"
+  },
+  {
+    "question_id": "HUIT_030",
+    "source": "HUIT-verified-curated",
+    "text": "Mọi thắc mắc về điểm quá trình và điểm thi cuối kỳ, sinh viên gửi đơn khiếu nại tại phòng Khảo thí và Đảm bảo chất lượng.",
+    "char_len": 121,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "dang_ky_hoc_phan"
+  },
+  {
+    "question_id": "HUIT_031",
+    "source": "HUIT-verified-curated",
+    "text": "Trường Đại học Công Thương Thành phố Hồ Chí Minh tuyển sinh trình độ đại học chính quy với hơn 40 ngành đào tạo phong phú.",
+    "char_len": 122,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "tuyen_sinh"
+  },
+  {
+    "question_id": "HUIT_032",
+    "source": "HUIT-verified-curated",
+    "text": "HUIT áp dụng nhiều phương thức tuyển sinh gồm xét điểm thi tốt nghiệp THPT, xét học bạ THPT và xét điểm thi đánh giá năng lực.",
+    "char_len": 126,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "tuyen_sinh"
+  },
+  {
+    "question_id": "HUIT_033",
+    "source": "HUIT-verified-curated",
+    "text": "Thông tin đề án tuyển sinh, mã ngành, tổ hợp môn xét tuyển và chỉ tiêu được cập nhật chính thức tại website ts.huit.edu.vn.",
+    "char_len": 123,
+    "word_count": 24,
+    "is_placeholder": false,
+    "domain": "tuyen_sinh"
+  },
+  {
+    "question_id": "HUIT_034",
+    "source": "HUIT-verified-curated",
+    "text": "Công nghệ thực phẩm và Đảm bảo chất lượng thực phẩm là hai ngành truyền thống mũi nhọn có thương hiệu uy tín lâu năm của trường.",
+    "char_len": 128,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "tuyen_sinh"
+  },
+  {
+    "question_id": "HUIT_035",
+    "source": "HUIT-verified-curated",
+    "text": "Khối ngành Công nghệ thông tin, Kỹ thuật phần mềm và An toàn thông tin tại HUIT thu hút lượng lớn thí sinh đăng ký dự tuyển.",
+    "char_len": 124,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "tuyen_sinh"
+  },
+  {
+    "question_id": "HUIT_036",
+    "source": "HUIT-verified-curated",
+    "text": "Ngành Quản trị kinh doanh, Marketing, Kinh doanh quốc tế và Thương mại điện tử được đào tạo gắn liền với thực hành doanh nghiệp.",
+    "char_len": 128,
+    "word_count": 25,
+    "is_placeholder": false,
+    "domain": "tuyen_sinh"
+  },
+  {
+    "question_id": "HUIT_037",
+    "source": "HUIT-verified-curated",
+    "text": "Thí sinh xét tuyển vào các chương trình đào tạo quốc tế cần đáp ứng yêu cầu năng lực tiếng Anh theo quy định của từng chương trình.",
+    "char_len": 131,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "tuyen_sinh"
+  },
+  {
+    "question_id": "HUIT_038",
+    "source": "HUIT-verified-curated",
+    "text": "HUIT tổ chức các chương trình tư vấn hướng nghiệp trực tiếp tại các trường THPT và ngày hội tuyển sinh mở tại khuôn viên trường.",
+    "char_len": 128,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "tuyen_sinh"
+  },
+  {
+    "question_id": "HUIT_039",
+    "source": "HUIT-verified-curated",
+    "text": "Thí sinh trúng tuyển làm thủ tục xác nhận nhập học trực tuyến trên hệ thống của Bộ Giáo dục và Đào tạo trước khi nộp hồ sơ tại trường.",
+    "char_len": 134,
+    "word_count": 30,
+    "is_placeholder": false,
+    "domain": "tuyen_sinh"
+  },
+  {
+    "question_id": "HUIT_040",
+    "source": "HUIT-verified-curated",
+    "text": "Hồ sơ nhập học bao gồm bản sao công chứng học bạ THPT, giấy chứng nhận tốt nghiệp tạm thời và các minh chứng ưu tiên nếu có.",
+    "char_len": 124,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "tuyen_sinh"
+  },
+  {
+    "question_id": "HUIT_041",
+    "source": "HUIT-verified-curated",
+    "text": "Điện thoại đường dây nóng hỗ trợ tư vấn tuyển sinh của nhà trường phục vụ liên tục trong các mùa tuyển sinh đại học.",
+    "char_len": 116,
+    "word_count": 25,
+    "is_placeholder": false,
+    "domain": "tot_nghiep"
+  },
+  {
+    "question_id": "HUIT_042",
+    "source": "HUIT-verified-curated",
+    "text": "Ngành Ngôn ngữ Anh và Ngôn ngữ Trung Quốc đào tạo sinh viên thành thạo kỹ năng giao tiếp và biên phiên dịch ứng dụng thương mại.",
+    "char_len": 128,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "tot_nghiep"
+  },
+  {
+    "question_id": "HUIT_043",
+    "source": "HUIT-verified-curated",
+    "text": "Khoa Cơ khí chế tạo máy và Kỹ thuật cơ điện tử được đầu tư nhiều phòng thực hành máy công cụ hiện đại tại xưởng trường.",
+    "char_len": 119,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "tot_nghiep"
+  },
+  {
+    "question_id": "HUIT_044",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên các ngành khối Hóa học và Sinh học được thực hành nghiên cứu tại hệ thống phòng thí nghiệm đạt chuẩn.",
+    "char_len": 111,
+    "word_count": 23,
+    "is_placeholder": false,
+    "domain": "tot_nghiep"
+  },
+  {
+    "question_id": "HUIT_045",
+    "source": "HUIT-verified-curated",
+    "text": "Trường cấp nhiều suất học bổng toàn phần và bán phần cho các thủ khoa và á khoa đầu vào trong ngày lễ khai giảng năm học mới.",
+    "char_len": 125,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "tot_nghiep"
+  },
+  {
+    "question_id": "HUIT_046",
+    "source": "HUIT-verified-curated",
+    "text": "HUIT tổ chức đào tạo theo hệ thống tín chỉ, cho phép sinh viên chủ động rút ngắn hoặc kéo dài thời gian hoàn thành khóa học.",
+    "char_len": 124,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "tot_nghiep"
+  },
+  {
+    "question_id": "HUIT_047",
+    "source": "HUIT-verified-curated",
+    "text": "Thang điểm đánh giá học phần tại trường gồm thang điểm 10 quy đổi sang thang điểm chữ và thang điểm 4 theo quy chế của Bộ.",
+    "char_len": 122,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "tot_nghiep"
+  },
+  {
+    "question_id": "HUIT_048",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên đạt điểm trung bình tích lũy toàn khóa từ 3.6 trở lên theo thang điểm 4 sẽ được xét tốt nghiệp loại xuất sắc.",
+    "char_len": 119,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "tot_nghiep"
+  },
+  {
+    "question_id": "HUIT_049",
+    "source": "HUIT-verified-curated",
+    "text": "Để đủ điều kiện nhận bằng tốt nghiệp, sinh viên phải hoàn thành toàn bộ khối lượng tín chỉ và không bị nợ học phí hay kỷ luật.",
+    "char_len": 126,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "tot_nghiep"
+  },
+  {
+    "question_id": "HUIT_050",
+    "source": "HUIT-verified-curated",
+    "text": "Chuẩn đầu ra ngoại ngữ của trường yêu cầu sinh viên phải đạt chứng chỉ TOEIC, IELTS hoặc các chứng chỉ quốc tế tương đương.",
+    "char_len": 123,
+    "word_count": 25,
+    "is_placeholder": false,
+    "domain": "tot_nghiep"
+  },
+  {
+    "question_id": "HUIT_051",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên cũng bắt buộc phải hoàn thành chứng chỉ Tin học cơ bản và chứng chỉ Giáo dục thể chất, Giáo dục quốc phòng an ninh.",
+    "char_len": 125,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "ky_luat"
+  },
+  {
+    "question_id": "HUIT_052",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên bị cảnh báo học vụ nếu điểm trung bình tích lũy học kỳ dưới 1.0 hoặc có số tín chỉ nợ vượt quá mức quy định.",
+    "char_len": 118,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "ky_luat"
+  },
+  {
+    "question_id": "HUIT_053",
+    "source": "HUIT-verified-curated",
+    "text": "Sau 3 lần liên tiếp bị cảnh báo học vụ, sinh viên có thể bị buộc thôi học theo quy chế đào tạo hiện hành của nhà trường.",
+    "char_len": 120,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "ky_luat"
+  },
+  {
+    "question_id": "HUIT_054",
+    "source": "HUIT-verified-curated",
+    "text": "Đợt xét tốt nghiệp được tổ chức định kỳ nhiều đợt trong năm để tạo điều kiện thuận lợi cho sinh viên nhận bằng sớm.",
+    "char_len": 115,
+    "word_count": 25,
+    "is_placeholder": false,
+    "domain": "ky_luat"
+  },
+  {
+    "question_id": "HUIT_055",
+    "source": "HUIT-verified-curated",
+    "text": "Bằng tốt nghiệp đại học chính quy do Hiệu trưởng Trường Đại học Công Thương Thành phố Hồ Chí Minh ký và cấp bằng theo phôi chuẩn.",
+    "char_len": 129,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "ky_luat"
+  },
+  {
+    "question_id": "HUIT_056",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên có thể đăng ký cấp giấy chứng nhận tốt nghiệp tạm thời trong khi chờ nhận bằng chính thức tại phòng Đào tạo.",
+    "char_len": 118,
+    "word_count": 25,
+    "is_placeholder": false,
+    "domain": "ky_luat"
+  },
+  {
+    "question_id": "HUIT_057",
+    "source": "HUIT-verified-curated",
+    "text": "Thời gian tối đa để sinh viên hoàn thành chương trình đào tạo cử nhân không vượt quá 2 lần thời gian thiết kế tiêu chuẩn của khóa học.",
+    "char_len": 134,
+    "word_count": 29,
+    "is_placeholder": false,
+    "domain": "ky_luat"
+  },
+  {
+    "question_id": "HUIT_058",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên có quyền bảo lưu kết quả học tập khi thực hiện nghĩa vụ quân sự hoặc có lý do sức khỏe có xác nhận của bệnh viện.",
+    "char_len": 123,
+    "word_count": 29,
+    "is_placeholder": false,
+    "domain": "ky_luat"
+  },
+  {
+    "question_id": "HUIT_059",
+    "source": "HUIT-verified-curated",
+    "text": "Học phần thực tập tốt nghiệp tại doanh nghiệp kéo dài từ 8 đến 12 tuần giúp sinh viên làm quen với môi trường công việc thực tế.",
+    "char_len": 128,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "ky_luat"
+  },
+  {
+    "question_id": "HUIT_060",
+    "source": "HUIT-verified-curated",
+    "text": "Khóa luận tốt nghiệp hoặc đồ án chuyên ngành được chấm công khai bởi Hội đồng đánh giá chuyên môn của khoa.",
+    "char_len": 107,
+    "word_count": 22,
+    "is_placeholder": false,
+    "domain": "ky_luat"
+  },
+  {
+    "question_id": "HUIT_061",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên khi đến trường phải tuân thủ nội quy tác phong, đeo thẻ sinh viên và giữ gìn trật tự vệ sinh chung trong khuôn viên.",
+    "char_len": 126,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "dich_vu"
+  },
+  {
+    "question_id": "HUIT_062",
+    "source": "HUIT-verified-curated",
+    "text": "Mọi hành vi gian lận trong thi cử như quay cóp tài liệu hoặc thi hộ đều bị đình chỉ thi và xử lý kỷ luật nghiêm khắc.",
+    "char_len": 117,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "dich_vu"
+  },
+  {
+    "question_id": "HUIT_063",
+    "source": "HUIT-verified-curated",
+    "text": "Đoàn Thanh niên và Hội Sinh viên HUIT thường xuyên tổ chức chiến dịch Mùa hè xanh và phong trào Sinh viên 5 tốt các cấp.",
+    "char_len": 120,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "dich_vu"
+  },
+  {
+    "question_id": "HUIT_064",
+    "source": "HUIT-verified-curated",
+    "text": "Các câu lạc bộ học thuật, tiếng Anh, kỹ năng mềm và võ thuật trực thuộc trường hoạt động sôi nổi vào các buổi chiều tối.",
+    "char_len": 120,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "dich_vu"
+  },
+  {
+    "question_id": "HUIT_065",
+    "source": "HUIT-verified-curated",
+    "text": "Điểm rèn luyện của sinh viên được đánh giá dựa trên ý thức học tập, chấp hành nội quy và tham gia các hoạt động phong trào.",
+    "char_len": 123,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "dich_vu"
+  },
+  {
+    "question_id": "HUIT_066",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên đạt điểm rèn luyện từ 80 điểm trở lên được xếp loại tốt và là điều kiện để xét các danh hiệu khen thưởng, học bổng.",
+    "char_len": 125,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "dich_vu"
+  },
+  {
+    "question_id": "HUIT_067",
+    "source": "HUIT-verified-curated",
+    "text": "Trường cấm tuyệt đối các hành vi mang chất cấm, cờ bạc hoặc tổ chức gây rối mất trật tự an ninh trong khuôn viên nhà trường.",
+    "char_len": 124,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "dich_vu"
+  },
+  {
+    "question_id": "HUIT_068",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên vi phạm nội quy lần đầu tùy theo mức độ sẽ bị nhắc nhở, khiển trách hoặc cảnh cáo toàn trường bằng văn bản.",
+    "char_len": 117,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "dich_vu"
+  },
+  {
+    "question_id": "HUIT_069",
+    "source": "HUIT-verified-curated",
+    "text": "Phòng Công tác Sinh viên tiếp nhận và xử lý các phản ánh, khiếu nại liên quan đến quyền lợi và đời sống học đường của sinh viên.",
+    "char_len": 128,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "dich_vu"
+  },
+  {
+    "question_id": "HUIT_070",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên có hoàn cảnh đặc biệt khó khăn có thể gửi đơn xin trợ cấp đột xuất về văn phòng Đoàn trường để được hỗ trợ kịp thời.",
+    "char_len": 126,
+    "word_count": 29,
+    "is_placeholder": false,
+    "domain": "dich_vu"
+  },
+  {
+    "question_id": "HUIT_071",
+    "source": "HUIT-verified-curated",
+    "text": "Hội trường lớn tại cơ sở chính là nơi diễn ra các lễ hội văn hóa sinh viên, hội thảo hướng nghiệp và lễ bế giảng trao bằng tốt nghiệp.",
+    "char_len": 134,
+    "word_count": 30,
+    "is_placeholder": false,
+    "domain": "chuong_trinh"
+  },
+  {
+    "question_id": "HUIT_072",
+    "source": "HUIT-verified-curated",
+    "text": "Các giải bóng đá sinh viên, bóng chuyền và hội thao truyền thống HUIT được phát động thi đua giữa các khoa vào tháng 3 hàng năm.",
+    "char_len": 128,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "chuong_trinh"
+  },
+  {
+    "question_id": "HUIT_073",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên vắng học quá 20 phần trăm số tiết lý thuyết hoặc thực hành sẽ không đủ điều kiện dự thi kết thúc học phần.",
+    "char_len": 116,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "chuong_trinh"
+  },
+  {
+    "question_id": "HUIT_074",
+    "source": "HUIT-verified-curated",
+    "text": "Quy chế khen thưởng và kỷ luật sinh viên được đăng tải công khai trên sổ tay sinh viên điện tử của nhà trường.",
+    "char_len": 110,
+    "word_count": 24,
+    "is_placeholder": false,
+    "domain": "chuong_trinh"
+  },
+  {
+    "question_id": "HUIT_075",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên tích cực tham gia các dự án nghiên cứu khoa học cấp trường được hỗ trợ kinh phí và cộng điểm rèn luyện ưu tiên.",
+    "char_len": 121,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "chuong_trinh"
+  },
+  {
+    "question_id": "HUIT_076",
+    "source": "HUIT-verified-curated",
+    "text": "Thư viện HUIT sở hữu hàng chục nghìn đầu sách giáo trình, tài liệu chuyên khảo và phòng máy tính tra cứu dữ liệu số hiện đại.",
+    "char_len": 125,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "chuong_trinh"
+  },
+  {
+    "question_id": "HUIT_077",
+    "source": "HUIT-verified-curated",
+    "text": "Không gian tự học tại thư viện được trang bị máy lạnh, wifi tốc độ cao và các phòng thảo luận nhóm dành riêng cho sinh viên.",
+    "char_len": 124,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "chuong_trinh"
+  },
+  {
+    "question_id": "HUIT_078",
+    "source": "HUIT-verified-curated",
+    "text": "Ký túc xá của trường cung cấp chỗ ở an toàn, khang trang cho sinh viên xa nhà với chi phí sinh hoạt được nhà trường trợ giá.",
+    "char_len": 124,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "chuong_trinh"
+  },
+  {
+    "question_id": "HUIT_079",
+    "source": "HUIT-verified-curated",
+    "text": "Hệ thống căng tin trong trường phục vụ ăn sáng, ăn trưa với các món ăn đảm bảo vệ sinh an toàn thực phẩm và giá cả hợp lý.",
+    "char_len": 122,
+    "word_count": 29,
+    "is_placeholder": false,
+    "domain": "chuong_trinh"
+  },
+  {
+    "question_id": "HUIT_080",
+    "source": "HUIT-verified-curated",
+    "text": "Các bãi giữ xe máy tự động trong khuôn viên trường áp dụng quẹt thẻ thông minh để bảo đảm an toàn phương tiện cho sinh viên.",
+    "char_len": 124,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "chuong_trinh"
+  },
+  {
+    "question_id": "HUIT_081",
+    "source": "HUIT-verified-curated",
+    "text": "Phòng y tế trường học đặt tại tầng trệt nhà hiệu bộ, sẵn sàng sơ cấp cứu và chăm sóc sức khỏe ban đầu cho cán bộ, sinh viên.",
+    "char_len": 124,
+    "word_count": 29,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_082",
+    "source": "HUIT-verified-curated",
+    "text": "Các phòng học lý thuyết đều được trang bị máy chiếu, màn hình lớn, hệ thống âm thanh giảng dạy và quạt thông gió đầy đủ.",
+    "char_len": 120,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_083",
+    "source": "HUIT-verified-curated",
+    "text": "Trung tâm công nghệ thông tin phụ trách bảo trì hệ thống máy chủ mạng, đảm bảo cổng thông tin đào tạo hoạt động ổn định.",
+    "char_len": 120,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_084",
+    "source": "HUIT-verified-curated",
+    "text": "Xưởng thực hành cơ khí, xưởng thực phẩm và các phòng thí nghiệm vi sinh được nâng cấp thường xuyên để phục vụ nghiên cứu.",
+    "char_len": 121,
+    "word_count": 25,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_085",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên sử dụng tài khoản email trường cấp với đuôi huit.edu.vn để liên hệ giảng viên và nhận thông báo chính thức.",
+    "char_len": 117,
+    "word_count": 23,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_086",
+    "source": "HUIT-verified-curated",
+    "text": "Cây rút tiền ATM của các ngân hàng thương mại được bố trí thuận tiện ngay tại khu vực cổng chính của cơ sở Lê Trọng Tấn.",
+    "char_len": 120,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_087",
+    "source": "HUIT-verified-curated",
+    "text": "Sân bóng rổ và khu rèn luyện thể chất ngoài trời mở cửa phục vụ sinh viên rèn luyện sức khỏe sau giờ học tập căng thẳng.",
+    "char_len": 120,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_088",
+    "source": "HUIT-verified-curated",
+    "text": "Phòng dịch vụ một cửa hỗ trợ sinh viên in bảng điểm, xin xác nhận giấy tờ và cấp lại thẻ sinh viên bị mất nhanh chóng.",
+    "char_len": 118,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_089",
+    "source": "HUIT-verified-curated",
+    "text": "Trung tâm Thông tin và Thư viện mở cửa phục vụ từ thứ Hai đến thứ Bảy hàng tuần trong suốt các kỳ học chính.",
+    "char_len": 108,
+    "word_count": 25,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_090",
+    "source": "HUIT-verified-curated",
+    "text": "Hệ thống camera an ninh được lắp đặt tại các hành lang và khu vực công cộng nhằm đảm bảo an ninh trật tự toàn trường.",
+    "char_len": 117,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_091",
+    "source": "HUIT-verified-curated",
+    "text": "Trung tâm Đổi mới sáng tạo và Khởi nghiệp HUIT hỗ trợ sinh viên phát triển các ý tưởng và dự án nghiên cứu khởi nghiệp khả thi.",
+    "char_len": 127,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_092",
+    "source": "HUIT-verified-curated",
+    "text": "Ngày hội việc làm thường niên quy tụ hàng trăm doanh nghiệp uy tín đến phỏng vấn và tuyển dụng trực tiếp sinh viên chuẩn bị tốt nghiệp.",
+    "char_len": 135,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_093",
+    "source": "HUIT-verified-curated",
+    "text": "Trường ký kết thỏa thuận hợp tác chiến lược với nhiều tập đoàn trong và ngoài nước để gửi sinh viên đến thực tập chuyên môn.",
+    "char_len": 124,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_094",
+    "source": "HUIT-verified-curated",
+    "text": "Các buổi hội thảo chuyên đề kỹ năng viết CV, phỏng vấn xin việc và định hướng nghề nghiệp được tổ chức định kỳ mỗi tháng.",
+    "char_len": 121,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_095",
+    "source": "HUIT-verified-curated",
+    "text": "Mạng lưới cựu sinh viên HUIT tích cực kết nối và tạo cơ hội việc làm phong phú cho các thế hệ sinh viên khóa sau.",
+    "char_len": 113,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_096",
+    "source": "HUIT-verified-curated",
+    "text": "Nhiều doanh nghiệp đối tác tài trợ phòng thí nghiệm thực hành chuyên ngành và cung cấp học bổng tài năng cho sinh viên xuất sắc.",
+    "char_len": 128,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_097",
+    "source": "HUIT-verified-curated",
+    "text": "Sinh viên tốt nghiệp từ HUIT được các nhà tuyển dụng đánh giá cao về tinh thần kỷ luật, kỹ năng thực hành và sự nhiệt huyết.",
+    "char_len": 124,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_098",
+    "source": "HUIT-verified-curated",
+    "text": "Chương trình trao đổi sinh viên quốc tế với các trường đại học tại Đài Loan, Nhật Bản và Hàn Quốc mở rộng cơ hội học tập.",
+    "char_len": 121,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_099",
+    "source": "HUIT-verified-curated",
+    "text": "Các dự án nghiên cứu khoa học sinh viên gắn liền với việc giải quyết các bài toán kỹ thuật thực tiễn của doanh nghiệp ngành thực phẩm.",
+    "char_len": 134,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "HUIT_100",
+    "source": "HUIT-verified-curated",
+    "text": "Bộ phận quan hệ doanh nghiệp liên tục cập nhật các vị trí tuyển dụng thực tập sinh và nhân viên chính thức trên fanpage trường.",
+    "char_len": 127,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "thuc_hanh"
+  },
+  {
+    "question_id": "VSFC_001",
+    "source": "UIT-VSFC",
+    "text": "có thêm các mô hình thực tế cho sinh viên .",
+    "char_len": 43,
+    "word_count": 11,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_002",
+    "source": "UIT-VSFC",
+    "text": "học phòng elab quá rộng , phân tán sinh viên làm giảng viên khó tương tác trực tiếp với sinh viên .",
+    "char_len": 99,
+    "word_count": 22,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_003",
+    "source": "UIT-VSFC",
+    "text": "giáo viên luôn chia sẻ những ứng dụng của kiến thức đã học với thực tiễn , chia sẻ khá nhiều kinh nghiệm thực tế vô cùng bổ ích với sinh viên .",
+    "char_len": 143,
+    "word_count": 33,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_004",
+    "source": "UIT-VSFC",
+    "text": "nên nhiều khi không hiểu thầy đang giảng gì .",
+    "char_len": 45,
+    "word_count": 10,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_005",
+    "source": "UIT-VSFC",
+    "text": "cô wzjwz257 dạy giải tích 2 rất chuẩn , truyền đạt tốt , dễ hiểu , rất hăng hái trong quá trình phân tích bài giảng , gửi tài liệu và bài tập đầy đủ , nhưng cô dạy có hơi nhanh .",
+    "char_len": 178,
+    "word_count": 43,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_006",
+    "source": "UIT-VSFC",
+    "text": "nên tạo động lực để sinh viên tham gia năng nổ đóng góp buổi học .",
+    "char_len": 66,
+    "word_count": 16,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_007",
+    "source": "UIT-VSFC",
+    "text": "hi vọng thầy có thể dạy cho chúng em về c kỹ càng hơn , thay vì dạy về c , để chúng em có thể hiểu được bản chất của lập trình , giúp cho chúng em đi lên từ nền tảng vững chắc .",
+    "char_len": 177,
+    "word_count": 46,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_008",
+    "source": "UIT-VSFC",
+    "text": "giảng viên tận tâm , nhiệt tình , khả năng truyền đạt tốt .",
+    "char_len": 59,
+    "word_count": 14,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_009",
+    "source": "UIT-VSFC",
+    "text": "nên đặt deadline là 11doubledot55 pm thay vì 12doubledot00 am nhiều khi nhìn lịch ở ngoài bị nhầm làm miss deadline nhiều lần .",
+    "char_len": 127,
+    "word_count": 24,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_010",
+    "source": "UIT-VSFC",
+    "text": "lắng nghe ý kiến của sinh viên trong quá trình học .",
+    "char_len": 52,
+    "word_count": 12,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_011",
+    "source": "UIT-VSFC",
+    "text": "biết ứng dụng kiến thức đã học vào thực tiễn tạo hứng thú cho sinh viên .",
+    "char_len": 73,
+    "word_count": 17,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_012",
+    "source": "UIT-VSFC",
+    "text": "thầy rất hiền và kiên trì giảng dạy cho lớp mặc dù môn học này đối với em không được hứng thú lắm .",
+    "char_len": 99,
+    "word_count": 24,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_013",
+    "source": "UIT-VSFC",
+    "text": "cô giáo nhiệt tình , tận tâm với lớp , truyền đạt hay .",
+    "char_len": 55,
+    "word_count": 14,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_014",
+    "source": "UIT-VSFC",
+    "text": "giảng viên nhiệt tình , gần gũi với sinh viên .",
+    "char_len": 47,
+    "word_count": 11,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_015",
+    "source": "UIT-VSFC",
+    "text": "thầy tận tâm , nhiệt tình trong giảng dạy .",
+    "char_len": 43,
+    "word_count": 10,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_016",
+    "source": "UIT-VSFC",
+    "text": "cô rất tận tình giúp đỡ chúng em trong học tập .",
+    "char_len": 48,
+    "word_count": 12,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_017",
+    "source": "UIT-VSFC",
+    "text": "có thể do đặc thù môn học với cách giảng dạy nên hơi khó hiểu .",
+    "char_len": 63,
+    "word_count": 16,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_018",
+    "source": "UIT-VSFC",
+    "text": "giảng viên nhiệt tình , giải đáp cụ thể các thắc mắc của sinh viên .",
+    "char_len": 68,
+    "word_count": 16,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_019",
+    "source": "UIT-VSFC",
+    "text": "cập nhật slide mới , tài liệu slide cũ có nhiều điểm khác slide mới không cập nhât đúng thứ tự , ví dụ .",
+    "char_len": 104,
+    "word_count": 25,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_020",
+    "source": "UIT-VSFC",
+    "text": "không giải đáp thắc mắc của sinh viên mà bắt tự tìm hiểu .",
+    "char_len": 58,
+    "word_count": 14,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_021",
+    "source": "UIT-VSFC",
+    "text": "tăng thời lượng môn học , nên có thêm những hoạt động ngoại khóa có liên quan đến môn anh văn để sinh viên được trau dồi thêm .",
+    "char_len": 127,
+    "word_count": 29,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_022",
+    "source": "UIT-VSFC",
+    "text": "thầy truyền được lửa cho sinh viên rất nhiều .",
+    "char_len": 46,
+    "word_count": 10,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_023",
+    "source": "UIT-VSFC",
+    "text": "cần cung cấp thêm tài liệu cho sinh viên thông qua website môn học .",
+    "char_len": 68,
+    "word_count": 15,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_024",
+    "source": "UIT-VSFC",
+    "text": "giảng viên cung cấp khá đầy đủ kiến thức .",
+    "char_len": 42,
+    "word_count": 10,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_025",
+    "source": "UIT-VSFC",
+    "text": "rất nhiệt tình đặc biệt giảng dạy rất hiệu quả .",
+    "char_len": 48,
+    "word_count": 11,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_026",
+    "source": "UIT-VSFC",
+    "text": "thầy tận tâm với học sinh , cung cấp tài liệu đầy đủ nhất có thể cho học sinh .",
+    "char_len": 79,
+    "word_count": 20,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_027",
+    "source": "UIT-VSFC",
+    "text": "còn kiểm tra thì nên thuyết trình hoặc làm đề tài là hay nhất , đừng làm mấy bài kiểm tra làm chi , vừa chẳng khẳng định được người đó có kỹ năng chưa , chỉ chạy theo chỉ tiêu và nhồi sọ .",
+    "char_len": 188,
+    "word_count": 45,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_028",
+    "source": "UIT-VSFC",
+    "text": "giảng viên có kiến thức chuyên sâu vê môn học .",
+    "char_len": 47,
+    "word_count": 11,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_029",
+    "source": "UIT-VSFC",
+    "text": "thầy rất thoải mải trò chuyện để giải quyết thắc mắc cho sinh viên , chỉ dẫn những cách làm bài dễ hiểu để cho sinh viên không bị vướng mắc .",
+    "char_len": 141,
+    "word_count": 32,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_030",
+    "source": "UIT-VSFC",
+    "text": "vừa giúp cho bọn em nắm chắc kiến thức về môn học , vừa giúp bọn em tự tin hơn về kỹ năng cá nhân của mình .",
+    "char_len": 108,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_031",
+    "source": "UIT-VSFC",
+    "text": "đặc biệt hơn là thầy đã bỏ rất nhiều công sức trong việc ra bài tập và chấm điểm một cách rõ ràng và minh bạch .",
+    "char_len": 112,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_032",
+    "source": "UIT-VSFC",
+    "text": "thực hành ngay trên lớp lý thuyết thì sẽ hay hơn .",
+    "char_len": 50,
+    "word_count": 12,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_033",
+    "source": "UIT-VSFC",
+    "text": "giải thích rõ nội dung của mỗi bài trước khi thực hành , giải đáp các thắc mắc của sinh viên trong quá trình thực hành .",
+    "char_len": 120,
+    "word_count": 27,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_034",
+    "source": "UIT-VSFC",
+    "text": "thầy luôn thúc giục học sinh cố gắng trong học tập .",
+    "char_len": 52,
+    "word_count": 12,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_035",
+    "source": "UIT-VSFC",
+    "text": "giảng viên truyền đạt rất dễ hiểu , thân thiện , vui vẻ và rất tận tình với sinh viên .",
+    "char_len": 87,
+    "word_count": 21,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_036",
+    "source": "UIT-VSFC",
+    "text": "nên thay đổi việc làm đồ án cuối kỳ doubledot không nên cho sinh viên làm đồ án tự do nữa quản lý , game , nghe nhạc vdotv mà giảng viên nên ra một đồ án có chủ đề thống nhất .",
+    "char_len": 176,
+    "word_count": 43,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_037",
+    "source": "UIT-VSFC",
+    "text": "thầy dạy thì nên dạy sớm để dễ học , dễ nhớ , ban đầu thầy ít dạy vào kiến thức chính , đến giai đoạn cuối của kỳ là khi bận rộn nhiều thì thấy mới bắt đầu dạy kiến thức .",
+    "char_len": 171,
+    "word_count": 43,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_038",
+    "source": "UIT-VSFC",
+    "text": "cô nên cập nhật lại kiến thức mới nhất trong slide bài giảng .",
+    "char_len": 62,
+    "word_count": 14,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_039",
+    "source": "UIT-VSFC",
+    "text": "thầy nhiệt tình , vui vẻ , giảng dạy kỹ những phần quan trọng .",
+    "char_len": 63,
+    "word_count": 15,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_040",
+    "source": "UIT-VSFC",
+    "text": "nhiệt tình , dễ gần , hình thức giảng dạy dễ hiểu .",
+    "char_len": 51,
+    "word_count": 13,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_041",
+    "source": "UIT-VSFC",
+    "text": "có một bạn trong phòng của em học thầy ở học kỳ trước hâm mộ thầy !",
+    "char_len": 67,
+    "word_count": 17,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_042",
+    "source": "UIT-VSFC",
+    "text": "giảng viên nhiệt tình , có kết hợp với doanh nghiệp để seminar về kỹ năng giao tiếp .",
+    "char_len": 85,
+    "word_count": 19,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_043",
+    "source": "UIT-VSFC",
+    "text": "thầy cô giáo dạy rất nhiệt tình và vui vẻ .",
+    "char_len": 43,
+    "word_count": 11,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_044",
+    "source": "UIT-VSFC",
+    "text": "mỗi bài học , mỗi buổi học thầy đều liên hệ thực tế với các cách thức mà các công ty bên ngoài thường làm .",
+    "char_len": 107,
+    "word_count": 26,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_045",
+    "source": "UIT-VSFC",
+    "text": "nội dung môn học không thừa , không thiếu .",
+    "char_len": 43,
+    "word_count": 10,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_046",
+    "source": "UIT-VSFC",
+    "text": "tâm huyến , muốn truyền đạt hết kiến thức cho sinh viên .",
+    "char_len": 57,
+    "word_count": 13,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_047",
+    "source": "UIT-VSFC",
+    "text": "đôi lúc chưa đi sâu vào vấn đề giảng dạy .",
+    "char_len": 42,
+    "word_count": 11,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_048",
+    "source": "UIT-VSFC",
+    "text": "thầy dạy quá nhanh , dồn kiến thức quá nhiều , phương pháp giảng chưa hợp lý .",
+    "char_len": 78,
+    "word_count": 18,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_049",
+    "source": "UIT-VSFC",
+    "text": "các hoạt động thi đua các nhóm trên lớp với nhau .",
+    "char_len": 50,
+    "word_count": 12,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_050",
+    "source": "UIT-VSFC",
+    "text": "bổ sung thêm slide và giáo trình tiếng việt .",
+    "char_len": 45,
+    "word_count": 10,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_051",
+    "source": "UIT-VSFC",
+    "text": "chấm đồ án doubledot chấm không công bằng , không thể lấy lý do không thích tính cách của sinh viên mà không cho sinh viên đậu , mặc dù đồ án hoàn thành tốt .",
+    "char_len": 158,
+    "word_count": 36,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_052",
+    "source": "UIT-VSFC",
+    "text": "thầy không hề giảng dạy bất cứ kiến thức gì , chủ yếu đưa lên module và bắt sinh viên tự tiềm hiểu .",
+    "char_len": 100,
+    "word_count": 24,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_053",
+    "source": "UIT-VSFC",
+    "text": "nhiệt tình với sinh viên , đảm bảo giờ lên lớp , có hệ thống website môn học dễ sử dụng .",
+    "char_len": 89,
+    "word_count": 22,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_054",
+    "source": "UIT-VSFC",
+    "text": "cô dạy nhẹ nhàng không gay gắt hay hung dữ .",
+    "char_len": 44,
+    "word_count": 11,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_055",
+    "source": "UIT-VSFC",
+    "text": "phần quản lý thao tác của oracle , giảng viên cung cấp tài liệu quản lý thao tác của sql server .",
+    "char_len": 97,
+    "word_count": 22,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_056",
+    "source": "UIT-VSFC",
+    "text": "thầy nhiệt huyết và giảng bao quát đề cập đến nhiều khía cạnh của bài học vấn đề .",
+    "char_len": 82,
+    "word_count": 19,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_057",
+    "source": "UIT-VSFC",
+    "text": "cần sắp xếp phòng học cho phù hợp với số lượng sinh viên để sinh viên tiếp thu tốt hơn .",
+    "char_len": 88,
+    "word_count": 21,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_058",
+    "source": "UIT-VSFC",
+    "text": "cho đồ án môn này để sinh viên nghiên cứu .",
+    "char_len": 43,
+    "word_count": 11,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_059",
+    "source": "UIT-VSFC",
+    "text": "những sinh viên được lòng giảng viên trên lớp sẽ qua môn một cách dễ dàng , còn những sinh viên còn lại chỉ cần sai sót nhỏ sẽ rớt môn .",
+    "char_len": 136,
+    "word_count": 32,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_060",
+    "source": "UIT-VSFC",
+    "text": "giảng viên wzjwz229 không dạy mà chỉ có thầy wzjwz230 thôi nên không biết nhận xét .",
+    "char_len": 84,
+    "word_count": 17,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_061",
+    "source": "UIT-VSFC",
+    "text": "thầy dạy kỹ , dễ hiểu , minh họa lý thuyết kỹ , liên tưởng thực tế .",
+    "char_len": 68,
+    "word_count": 18,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_062",
+    "source": "UIT-VSFC",
+    "text": "cô wzjwz226 rất tâm huyết với sinh viên , tận tâm , giảng bài có hiệu quả .",
+    "char_len": 75,
+    "word_count": 18,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_063",
+    "source": "UIT-VSFC",
+    "text": "bài tập nhiều để vận dụng , tăng thêm giờ học .",
+    "char_len": 47,
+    "word_count": 12,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_064",
+    "source": "UIT-VSFC",
+    "text": "thầy dạy hay , quan tâm học sinh , nhiệt tình .",
+    "char_len": 47,
+    "word_count": 12,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_065",
+    "source": "UIT-VSFC",
+    "text": "nhóm trưởng không làm thì đồ án bỏ không .",
+    "char_len": 42,
+    "word_count": 10,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_066",
+    "source": "UIT-VSFC",
+    "text": "sẵn sàng trả lời mọi thắc mắc của sinh viên .",
+    "char_len": 45,
+    "word_count": 11,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_067",
+    "source": "UIT-VSFC",
+    "text": "sẵn sàng giải đáp tận tình mọi thắc mắc của sinh viên khi được hỏi .",
+    "char_len": 68,
+    "word_count": 16,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_068",
+    "source": "UIT-VSFC",
+    "text": "thầy ra nhiều bài tập , sửa chữa lỗi , dạy dễ hiểu .",
+    "char_len": 52,
+    "word_count": 14,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_069",
+    "source": "UIT-VSFC",
+    "text": "không biết thầy nào dạy chính thức , mà học thường nghỉ không thông báo trước để sinh viên đứng chờ sắp hết tiết rồi tự về nhiều lần .",
+    "char_len": 134,
+    "word_count": 30,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_070",
+    "source": "UIT-VSFC",
+    "text": "vì tính cô kỹ nên đôi lúc nói quá nhiều về một vấn đề ( lặp đi lặp lại ) làm mất thời gian trên lớp và sử dụng giờ học không hiệu quả .",
+    "char_len": 135,
+    "word_count": 35,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_071",
+    "source": "UIT-VSFC",
+    "text": "cô nói hơi khó nghe và những điều học được ít gây được hứng thú nơi sinh viên .",
+    "char_len": 79,
+    "word_count": 19,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_072",
+    "source": "UIT-VSFC",
+    "text": "giảng viên tận tâm giúp sinh viên học tập .",
+    "char_len": 43,
+    "word_count": 10,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_073",
+    "source": "UIT-VSFC",
+    "text": "thuộc bài một cách máy móc và trình bày không tự nhiên nhưng điểm vẫn cao .",
+    "char_len": 75,
+    "word_count": 17,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_074",
+    "source": "UIT-VSFC",
+    "text": "nên xắp xếp lịch báo cáo , thuyết trình một cách cụ thể , giúp cho sinh viên chủ động được thời gian cũng như nắm bắt được kiến thức cụ thể của từng buổi .",
+    "char_len": 155,
+    "word_count": 36,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_075",
+    "source": "UIT-VSFC",
+    "text": "chưa áp dụng công nghệ thông tin và các thiết bị hỗ trợ cho việc giảng dạy .",
+    "char_len": 76,
+    "word_count": 18,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_076",
+    "source": "UIT-VSFC",
+    "text": "giảm bớt thời gian phần speaking bắt kịp tốc độ giảng dạy .",
+    "char_len": 59,
+    "word_count": 13,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_077",
+    "source": "UIT-VSFC",
+    "text": "cô thường xuyên cung cấp bài tập và kiến thức thực tiễn mà các doanh nghiệp dùng để kiểm tra và giảng bài kỹ càng chi tiết .",
+    "char_len": 124,
+    "word_count": 28,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_078",
+    "source": "UIT-VSFC",
+    "text": "cho nghỉ nhiều , học bù trùng lịch với môn khác .",
+    "char_len": 49,
+    "word_count": 12,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_079",
+    "source": "UIT-VSFC",
+    "text": "giảng viên giảng dạy tận tình , vui vẻ giúp học viên nhận thức được nhiều kiến thức .",
+    "char_len": 85,
+    "word_count": 19,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_080",
+    "source": "UIT-VSFC",
+    "text": "cách dạy hài hước , không gây buồn ngủ .",
+    "char_len": 40,
+    "word_count": 10,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_081",
+    "source": "UIT-VSFC",
+    "text": "deadline quá nhiều và khoảng cách giữa các bài deadline quá gần .",
+    "char_len": 65,
+    "word_count": 13,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_082",
+    "source": "UIT-VSFC",
+    "text": "thầy cho rất nhiều bài tập đảm bảo lượng kiến thức đủ cho sinh viên giảng dạy rất nhiệt tình .",
+    "char_len": 94,
+    "word_count": 21,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_083",
+    "source": "UIT-VSFC",
+    "text": "trang thiết bị cần được hỗ trợ tốt hơn , chất lượng máy chiếu không được như ý , khá mờ làm chất lượng thuyết trình và việc giảng dạy không được tốt .",
+    "char_len": 150,
+    "word_count": 34,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_084",
+    "source": "UIT-VSFC",
+    "text": "nhiệt tình , quan tâm chia sẻ với sinh viên .",
+    "char_len": 45,
+    "word_count": 11,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_085",
+    "source": "UIT-VSFC",
+    "text": "cách dạy thiếu khoa học , cứng nhắc , quá áp đặt , không thu hút , gó bó tư duy của sinh viên .",
+    "char_len": 95,
+    "word_count": 25,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_086",
+    "source": "UIT-VSFC",
+    "text": "phòng học và các thiết bị giảng dạy cần được nâng cấp tốt hơn .",
+    "char_len": 63,
+    "word_count": 15,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_087",
+    "source": "UIT-VSFC",
+    "text": "mong thầy giảng bài và trả lời câu hỏi đúng trọng tâm và mong muốn của sinh viên .",
+    "char_len": 82,
+    "word_count": 19,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_088",
+    "source": "UIT-VSFC",
+    "text": "cô là giáo viên có tâm và nhiệt huyết nhất em từng gặp .",
+    "char_len": 56,
+    "word_count": 14,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_089",
+    "source": "UIT-VSFC",
+    "text": "thầy dạy quá chi tiết với đồ án thầy hướng dân hết rồi không có gì để làm nữa .",
+    "char_len": 79,
+    "word_count": 20,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_090",
+    "source": "UIT-VSFC",
+    "text": "giảng viên cho về sớm hơn giờ quy định .",
+    "char_len": 40,
+    "word_count": 10,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_091",
+    "source": "UIT-VSFC",
+    "text": "thời gian học quá trễ , sinh viên chất lượng cao không về được xe trường vốn là quyền lợi của sinh viên chất lượng cao , sinh viên không kịp thời gian đi học thêm sau thời gian học về đến trung tâm thành phố sau 7h .",
+    "char_len": 216,
+    "word_count": 49,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_092",
+    "source": "UIT-VSFC",
+    "text": "thầy vui tính , dạy dễ hiểu , lấy ví dụ thực tiễn .",
+    "char_len": 51,
+    "word_count": 14,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_093",
+    "source": "UIT-VSFC",
+    "text": "lên lớp ai làm việc người ấy , thầy không có giảng gì thêm .",
+    "char_len": 60,
+    "word_count": 15,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_094",
+    "source": "UIT-VSFC",
+    "text": "có thể nói học nhập môn lập trình gặp được cô là một điều vô cùng may mắn , cảm ơn cô nhiều .",
+    "char_len": 93,
+    "word_count": 24,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_095",
+    "source": "UIT-VSFC",
+    "text": "giáo viên giảng dạy nhiệt tình , tạo được hứng thú cho sinh viên .",
+    "char_len": 66,
+    "word_count": 15,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_096",
+    "source": "UIT-VSFC",
+    "text": "giảng dạy cứng nhắc , áp đặp , không thu hút , gò bó sinh viên .",
+    "char_len": 64,
+    "word_count": 17,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_097",
+    "source": "UIT-VSFC",
+    "text": "dạy chậm về kiến thức , chưa hoàn tất chuyển c sang cplusplus .",
+    "char_len": 63,
+    "word_count": 14,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_098",
+    "source": "UIT-VSFC",
+    "text": "thầy vui tính , giảng hay , nhiệt huyết với các bạn .",
+    "char_len": 53,
+    "word_count": 13,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_099",
+    "source": "UIT-VSFC",
+    "text": "cần phân chia hai giảng viên cho từng dãy bàn để tăng khả năng tương tác với sinh viên .",
+    "char_len": 88,
+    "word_count": 20,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  },
+  {
+    "question_id": "VSFC_100",
+    "source": "UIT-VSFC",
+    "text": "môn này em bị trùng lịch học do lịch thực hành hình thức 2 được công bố sau vì thế mà thời gian đi học thực hành của em cũng bị hạn chế .",
+    "char_len": 137,
+    "word_count": 34,
+    "is_placeholder": false,
+    "domain": "student_feedback"
+  }
+]

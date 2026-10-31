@@ -1,0 +1,201 @@
+﻿question_id,source,text,char_len,word_count,is_placeholder,domain
+HUIT_001,HUIT-verified-curated,"Trường Đại học Công Thương Thành phố Hồ Chí Minh có cơ sở chính đặt tại số 140 đường Lê Trọng Tấn, phường Tây Thạnh, quận Tân Phú.",130,28,False,hoc_phi
+HUIT_002,HUIT-verified-curated,"Đơn giá học phí tại HUIT được thu theo hình thức tín chỉ, áp dụng theo từng ngành và chương trình đào tạo của nhà trường.",121,26,False,hoc_phi
+HUIT_003,HUIT-verified-curated,Sinh viên có thể tra cứu học phí và thanh toán trực tuyến qua cổng thông tin portal.huit.edu.vn hoặc nộp trực tiếp tại phòng Kế hoạch - Tài chính.,146,29,False,hoc_phi
+HUIT_004,HUIT-verified-curated,"Sinh viên thuộc diện chính sách, hộ nghèo hoặc cận nghèo được xem xét miễn giảm học phí theo quy định hiện hành của Nhà nước.",125,26,False,hoc_phi
+HUIT_005,HUIT-verified-curated,Học phí phải được nộp đúng thời hạn quy định trong thông báo đầu mỗi học kỳ để không bị hủy kết quả đăng ký học phần.,117,27,False,hoc_phi
+HUIT_006,HUIT-verified-curated,Học phí các ngành chương trình chất lượng cao và định hướng quốc tế tại HUIT cao hơn so với chương trình đại trà chuẩn.,119,25,False,hoc_phi
+HUIT_007,HUIT-verified-curated,Sinh viên nộp đơn xin rút môn học trong 2 tuần đầu học kỳ sẽ được giải quyết hoàn phí theo quy chế tài chính của nhà trường.,124,28,False,hoc_phi
+HUIT_008,HUIT-verified-curated,Phòng Kế hoạch - Tài chính HUIT làm việc từ thứ Hai đến thứ Sáu trong giờ hành chính để hỗ trợ sinh viên các thủ tục công nợ.,125,29,False,hoc_phi
+HUIT_009,HUIT-verified-curated,Nhà trường xét trao học bổng khuyến khích học tập vào cuối mỗi học kỳ chính cho sinh viên đạt điểm rèn luyện và học tập từ loại khá trở lên.,140,31,False,hoc_phi
+HUIT_010,HUIT-verified-curated,Học bổng tài trợ từ doanh nghiệp và các tổ chức đối tác của HUIT được phân bổ về các khoa chuyên ngành hàng năm.,112,25,False,hoc_phi
+HUIT_011,HUIT-verified-curated,Sinh viên có thể xin xác nhận để làm thủ tục vay vốn tín dụng sinh viên tại Ngân hàng Chính sách Xã hội theo quy định.,118,27,False,hoc_phi
+HUIT_012,HUIT-verified-curated,Mức học phí toàn khóa và lộ trình tăng học phí tối đa hàng năm được nhà trường công khai minh bạch trong đề án tuyển sinh.,122,27,False,hoc_phi
+HUIT_013,HUIT-verified-curated,Sinh viên nợ học phí quá hạn sẽ bị khóa quyền truy cập vào hệ thống đăng ký học phần và xem kết quả thi trực tuyến.,115,27,False,hoc_phi
+HUIT_014,HUIT-verified-curated,Các khoản thu bảo hiểm y tế bắt buộc và bảo hiểm thân thể được thông báo và thu cùng đợt với học phí học kỳ một.,112,27,False,hoc_phi
+HUIT_015,HUIT-verified-curated,Sinh viên liên hệ bộ phận hỗ trợ tài chính tại cơ sở Lê Trọng Tấn khi gặp sự cố trừ tiền nhưng chưa cập nhật học phí trên portal.,129,30,False,hoc_phi
+HUIT_016,HUIT-verified-curated,"Thời gian đăng ký học phần được Phòng Đào tạo HUIT mở theo từng đợt, ưu tiên sinh viên năm cuối và sinh viên theo đúng tiến độ.",127,28,False,dang_ky_hoc_phan
+HUIT_017,HUIT-verified-curated,Sinh viên thực hiện đăng ký môn học trực tuyến tại trang web quản trị đào tạo theo tài khoản mã số sinh viên được cấp.,118,26,False,dang_ky_hoc_phan
+HUIT_018,HUIT-verified-curated,"Mỗi học kỳ chính, sinh viên được phép đăng ký số lượng tín chỉ dao động từ tối thiểu 12 tín chỉ đến tối đa 24 tín chỉ.",118,28,False,dang_ky_hoc_phan
+HUIT_019,HUIT-verified-curated,Sinh viên có nhu cầu học vượt hoặc đăng ký trên 25 tín chỉ phải làm đơn và có xác nhận đồng ý của cố vấn học tập phụ trách.,123,30,False,dang_ky_hoc_phan
+HUIT_020,HUIT-verified-curated,Các môn học có điều kiện tiên quyết yêu cầu sinh viên phải hoàn thành và đạt điểm từ điểm D trở lên mới được đăng ký tiếp.,122,28,False,dang_ky_hoc_phan
+HUIT_021,HUIT-verified-curated,Sinh viên cần kiểm tra kỹ thời khóa biểu để tránh việc đăng ký trùng lịch học hoặc trùng phòng thực hành giữa các nhóm.,119,25,False,dang_ky_hoc_phan
+HUIT_022,HUIT-verified-curated,"Sau đợt đăng ký chính thức, sinh viên có thể đăng ký bổ sung hoặc hủy môn trong thời gian hiệu chỉnh học phần theo thông báo.",125,27,False,dang_ky_hoc_phan
+HUIT_023,HUIT-verified-curated,"Nếu lớp học phần không đủ số lượng sinh viên tối thiểu theo quy định, Phòng Đào tạo sẽ thông báo hủy lớp để chuyển sang lớp khác.",129,28,False,dang_ky_hoc_phan
+HUIT_024,HUIT-verified-curated,Lịch thi kết thúc học phần được công bố trên hệ thống portal trước ngày thi ít nhất 2 tuần để sinh viên chủ động ôn tập.,120,27,False,dang_ky_hoc_phan
+HUIT_025,HUIT-verified-curated,Sinh viên dự thi phải mang theo thẻ sinh viên có dán ảnh hoặc căn cước công dân hợp lệ để cán bộ coi thi đối chiếu.,115,27,False,dang_ky_hoc_phan
+HUIT_026,HUIT-verified-curated,"Trường hợp bị trùng lịch thi cuối kỳ, sinh viên làm đơn hoãn thi nộp về văn phòng khoa chuyên ngành trước ngày thi.",115,24,False,dang_ky_hoc_phan
+HUIT_027,HUIT-verified-curated,Sinh viên vắng thi không có lý do chính đáng sẽ nhận điểm không cho cột điểm thi cuối kỳ của học phần tương ứng.,112,25,False,dang_ky_hoc_phan
+HUIT_028,HUIT-verified-curated,Cố vấn học tập theo dõi tiến độ đào tạo và hướng dẫn sinh viên lập kế hoạch học tập chi tiết trong từng năm học.,112,26,False,dang_ky_hoc_phan
+HUIT_029,HUIT-verified-curated,Sinh viên học lại để cải thiện điểm các học phần bị điểm F hoặc muốn nâng điểm trung bình tích lũy theo quy chế tín chỉ.,120,27,False,dang_ky_hoc_phan
+HUIT_030,HUIT-verified-curated,"Mọi thắc mắc về điểm quá trình và điểm thi cuối kỳ, sinh viên gửi đơn khiếu nại tại phòng Khảo thí và Đảm bảo chất lượng.",121,27,False,dang_ky_hoc_phan
+HUIT_031,HUIT-verified-curated,Trường Đại học Công Thương Thành phố Hồ Chí Minh tuyển sinh trình độ đại học chính quy với hơn 40 ngành đào tạo phong phú.,122,26,False,tuyen_sinh
+HUIT_032,HUIT-verified-curated,"HUIT áp dụng nhiều phương thức tuyển sinh gồm xét điểm thi tốt nghiệp THPT, xét học bạ THPT và xét điểm thi đánh giá năng lực.",126,27,False,tuyen_sinh
+HUIT_033,HUIT-verified-curated,"Thông tin đề án tuyển sinh, mã ngành, tổ hợp môn xét tuyển và chỉ tiêu được cập nhật chính thức tại website ts.huit.edu.vn.",123,24,False,tuyen_sinh
+HUIT_034,HUIT-verified-curated,Công nghệ thực phẩm và Đảm bảo chất lượng thực phẩm là hai ngành truyền thống mũi nhọn có thương hiệu uy tín lâu năm của trường.,128,27,False,tuyen_sinh
+HUIT_035,HUIT-verified-curated,"Khối ngành Công nghệ thông tin, Kỹ thuật phần mềm và An toàn thông tin tại HUIT thu hút lượng lớn thí sinh đăng ký dự tuyển.",124,27,False,tuyen_sinh
+HUIT_036,HUIT-verified-curated,"Ngành Quản trị kinh doanh, Marketing, Kinh doanh quốc tế và Thương mại điện tử được đào tạo gắn liền với thực hành doanh nghiệp.",128,25,False,tuyen_sinh
+HUIT_037,HUIT-verified-curated,Thí sinh xét tuyển vào các chương trình đào tạo quốc tế cần đáp ứng yêu cầu năng lực tiếng Anh theo quy định của từng chương trình.,131,28,False,tuyen_sinh
+HUIT_038,HUIT-verified-curated,HUIT tổ chức các chương trình tư vấn hướng nghiệp trực tiếp tại các trường THPT và ngày hội tuyển sinh mở tại khuôn viên trường.,128,26,False,tuyen_sinh
+HUIT_039,HUIT-verified-curated,Thí sinh trúng tuyển làm thủ tục xác nhận nhập học trực tuyến trên hệ thống của Bộ Giáo dục và Đào tạo trước khi nộp hồ sơ tại trường.,134,30,False,tuyen_sinh
+HUIT_040,HUIT-verified-curated,"Hồ sơ nhập học bao gồm bản sao công chứng học bạ THPT, giấy chứng nhận tốt nghiệp tạm thời và các minh chứng ưu tiên nếu có.",124,28,False,tuyen_sinh
+HUIT_041,HUIT-verified-curated,Điện thoại đường dây nóng hỗ trợ tư vấn tuyển sinh của nhà trường phục vụ liên tục trong các mùa tuyển sinh đại học.,116,25,False,tot_nghiep
+HUIT_042,HUIT-verified-curated,Ngành Ngôn ngữ Anh và Ngôn ngữ Trung Quốc đào tạo sinh viên thành thạo kỹ năng giao tiếp và biên phiên dịch ứng dụng thương mại.,128,27,False,tot_nghiep
+HUIT_043,HUIT-verified-curated,Khoa Cơ khí chế tạo máy và Kỹ thuật cơ điện tử được đầu tư nhiều phòng thực hành máy công cụ hiện đại tại xưởng trường.,119,27,False,tot_nghiep
+HUIT_044,HUIT-verified-curated,Sinh viên các ngành khối Hóa học và Sinh học được thực hành nghiên cứu tại hệ thống phòng thí nghiệm đạt chuẩn.,111,23,False,tot_nghiep
+HUIT_045,HUIT-verified-curated,Trường cấp nhiều suất học bổng toàn phần và bán phần cho các thủ khoa và á khoa đầu vào trong ngày lễ khai giảng năm học mới.,125,28,False,tot_nghiep
+HUIT_046,HUIT-verified-curated,"HUIT tổ chức đào tạo theo hệ thống tín chỉ, cho phép sinh viên chủ động rút ngắn hoặc kéo dài thời gian hoàn thành khóa học.",124,27,False,tot_nghiep
+HUIT_047,HUIT-verified-curated,Thang điểm đánh giá học phần tại trường gồm thang điểm 10 quy đổi sang thang điểm chữ và thang điểm 4 theo quy chế của Bộ.,122,27,False,tot_nghiep
+HUIT_048,HUIT-verified-curated,Sinh viên đạt điểm trung bình tích lũy toàn khóa từ 3.6 trở lên theo thang điểm 4 sẽ được xét tốt nghiệp loại xuất sắc.,119,26,False,tot_nghiep
+HUIT_049,HUIT-verified-curated,"Để đủ điều kiện nhận bằng tốt nghiệp, sinh viên phải hoàn thành toàn bộ khối lượng tín chỉ và không bị nợ học phí hay kỷ luật.",126,28,False,tot_nghiep
+HUIT_050,HUIT-verified-curated,"Chuẩn đầu ra ngoại ngữ của trường yêu cầu sinh viên phải đạt chứng chỉ TOEIC, IELTS hoặc các chứng chỉ quốc tế tương đương.",123,25,False,tot_nghiep
+HUIT_051,HUIT-verified-curated,"Sinh viên cũng bắt buộc phải hoàn thành chứng chỉ Tin học cơ bản và chứng chỉ Giáo dục thể chất, Giáo dục quốc phòng an ninh.",125,27,False,ky_luat
+HUIT_052,HUIT-verified-curated,Sinh viên bị cảnh báo học vụ nếu điểm trung bình tích lũy học kỳ dưới 1.0 hoặc có số tín chỉ nợ vượt quá mức quy định.,118,28,False,ky_luat
+HUIT_053,HUIT-verified-curated,"Sau 3 lần liên tiếp bị cảnh báo học vụ, sinh viên có thể bị buộc thôi học theo quy chế đào tạo hiện hành của nhà trường.",120,28,False,ky_luat
+HUIT_054,HUIT-verified-curated,Đợt xét tốt nghiệp được tổ chức định kỳ nhiều đợt trong năm để tạo điều kiện thuận lợi cho sinh viên nhận bằng sớm.,115,25,False,ky_luat
+HUIT_055,HUIT-verified-curated,Bằng tốt nghiệp đại học chính quy do Hiệu trưởng Trường Đại học Công Thương Thành phố Hồ Chí Minh ký và cấp bằng theo phôi chuẩn.,129,27,False,ky_luat
+HUIT_056,HUIT-verified-curated,Sinh viên có thể đăng ký cấp giấy chứng nhận tốt nghiệp tạm thời trong khi chờ nhận bằng chính thức tại phòng Đào tạo.,118,25,False,ky_luat
+HUIT_057,HUIT-verified-curated,Thời gian tối đa để sinh viên hoàn thành chương trình đào tạo cử nhân không vượt quá 2 lần thời gian thiết kế tiêu chuẩn của khóa học.,134,29,False,ky_luat
+HUIT_058,HUIT-verified-curated,Sinh viên có quyền bảo lưu kết quả học tập khi thực hiện nghĩa vụ quân sự hoặc có lý do sức khỏe có xác nhận của bệnh viện.,123,29,False,ky_luat
+HUIT_059,HUIT-verified-curated,Học phần thực tập tốt nghiệp tại doanh nghiệp kéo dài từ 8 đến 12 tuần giúp sinh viên làm quen với môi trường công việc thực tế.,128,28,False,ky_luat
+HUIT_060,HUIT-verified-curated,Khóa luận tốt nghiệp hoặc đồ án chuyên ngành được chấm công khai bởi Hội đồng đánh giá chuyên môn của khoa.,107,22,False,ky_luat
+HUIT_061,HUIT-verified-curated,"Sinh viên khi đến trường phải tuân thủ nội quy tác phong, đeo thẻ sinh viên và giữ gìn trật tự vệ sinh chung trong khuôn viên.",126,27,False,dich_vu
+HUIT_062,HUIT-verified-curated,Mọi hành vi gian lận trong thi cử như quay cóp tài liệu hoặc thi hộ đều bị đình chỉ thi và xử lý kỷ luật nghiêm khắc.,117,28,False,dich_vu
+HUIT_063,HUIT-verified-curated,Đoàn Thanh niên và Hội Sinh viên HUIT thường xuyên tổ chức chiến dịch Mùa hè xanh và phong trào Sinh viên 5 tốt các cấp.,120,26,False,dich_vu
+HUIT_064,HUIT-verified-curated,"Các câu lạc bộ học thuật, tiếng Anh, kỹ năng mềm và võ thuật trực thuộc trường hoạt động sôi nổi vào các buổi chiều tối.",120,26,False,dich_vu
+HUIT_065,HUIT-verified-curated,"Điểm rèn luyện của sinh viên được đánh giá dựa trên ý thức học tập, chấp hành nội quy và tham gia các hoạt động phong trào.",123,27,False,dich_vu
+HUIT_066,HUIT-verified-curated,"Sinh viên đạt điểm rèn luyện từ 80 điểm trở lên được xếp loại tốt và là điều kiện để xét các danh hiệu khen thưởng, học bổng.",125,28,False,dich_vu
+HUIT_067,HUIT-verified-curated,"Trường cấm tuyệt đối các hành vi mang chất cấm, cờ bạc hoặc tổ chức gây rối mất trật tự an ninh trong khuôn viên nhà trường.",124,27,False,dich_vu
+HUIT_068,HUIT-verified-curated,"Sinh viên vi phạm nội quy lần đầu tùy theo mức độ sẽ bị nhắc nhở, khiển trách hoặc cảnh cáo toàn trường bằng văn bản.",117,26,False,dich_vu
+HUIT_069,HUIT-verified-curated,"Phòng Công tác Sinh viên tiếp nhận và xử lý các phản ánh, khiếu nại liên quan đến quyền lợi và đời sống học đường của sinh viên.",128,28,False,dich_vu
+HUIT_070,HUIT-verified-curated,Sinh viên có hoàn cảnh đặc biệt khó khăn có thể gửi đơn xin trợ cấp đột xuất về văn phòng Đoàn trường để được hỗ trợ kịp thời.,126,29,False,dich_vu
+HUIT_071,HUIT-verified-curated,"Hội trường lớn tại cơ sở chính là nơi diễn ra các lễ hội văn hóa sinh viên, hội thảo hướng nghiệp và lễ bế giảng trao bằng tốt nghiệp.",134,30,False,chuong_trinh
+HUIT_072,HUIT-verified-curated,"Các giải bóng đá sinh viên, bóng chuyền và hội thao truyền thống HUIT được phát động thi đua giữa các khoa vào tháng 3 hàng năm.",128,27,False,chuong_trinh
+HUIT_073,HUIT-verified-curated,Sinh viên vắng học quá 20 phần trăm số tiết lý thuyết hoặc thực hành sẽ không đủ điều kiện dự thi kết thúc học phần.,116,26,False,chuong_trinh
+HUIT_074,HUIT-verified-curated,Quy chế khen thưởng và kỷ luật sinh viên được đăng tải công khai trên sổ tay sinh viên điện tử của nhà trường.,110,24,False,chuong_trinh
+HUIT_075,HUIT-verified-curated,Sinh viên tích cực tham gia các dự án nghiên cứu khoa học cấp trường được hỗ trợ kinh phí và cộng điểm rèn luyện ưu tiên.,121,27,False,chuong_trinh
+HUIT_076,HUIT-verified-curated,"Thư viện HUIT sở hữu hàng chục nghìn đầu sách giáo trình, tài liệu chuyên khảo và phòng máy tính tra cứu dữ liệu số hiện đại.",125,27,False,chuong_trinh
+HUIT_077,HUIT-verified-curated,"Không gian tự học tại thư viện được trang bị máy lạnh, wifi tốc độ cao và các phòng thảo luận nhóm dành riêng cho sinh viên.",124,27,False,chuong_trinh
+HUIT_078,HUIT-verified-curated,"Ký túc xá của trường cung cấp chỗ ở an toàn, khang trang cho sinh viên xa nhà với chi phí sinh hoạt được nhà trường trợ giá.",124,28,False,chuong_trinh
+HUIT_079,HUIT-verified-curated,"Hệ thống căng tin trong trường phục vụ ăn sáng, ăn trưa với các món ăn đảm bảo vệ sinh an toàn thực phẩm và giá cả hợp lý.",122,29,False,chuong_trinh
+HUIT_080,HUIT-verified-curated,Các bãi giữ xe máy tự động trong khuôn viên trường áp dụng quẹt thẻ thông minh để bảo đảm an toàn phương tiện cho sinh viên.,124,27,False,chuong_trinh
+HUIT_081,HUIT-verified-curated,"Phòng y tế trường học đặt tại tầng trệt nhà hiệu bộ, sẵn sàng sơ cấp cứu và chăm sóc sức khỏe ban đầu cho cán bộ, sinh viên.",124,29,False,thuc_hanh
+HUIT_082,HUIT-verified-curated,"Các phòng học lý thuyết đều được trang bị máy chiếu, màn hình lớn, hệ thống âm thanh giảng dạy và quạt thông gió đầy đủ.",120,26,False,thuc_hanh
+HUIT_083,HUIT-verified-curated,"Trung tâm công nghệ thông tin phụ trách bảo trì hệ thống máy chủ mạng, đảm bảo cổng thông tin đào tạo hoạt động ổn định.",120,26,False,thuc_hanh
+HUIT_084,HUIT-verified-curated,"Xưởng thực hành cơ khí, xưởng thực phẩm và các phòng thí nghiệm vi sinh được nâng cấp thường xuyên để phục vụ nghiên cứu.",121,25,False,thuc_hanh
+HUIT_085,HUIT-verified-curated,Sinh viên sử dụng tài khoản email trường cấp với đuôi huit.edu.vn để liên hệ giảng viên và nhận thông báo chính thức.,117,23,False,thuc_hanh
+HUIT_086,HUIT-verified-curated,Cây rút tiền ATM của các ngân hàng thương mại được bố trí thuận tiện ngay tại khu vực cổng chính của cơ sở Lê Trọng Tấn.,120,27,False,thuc_hanh
+HUIT_087,HUIT-verified-curated,Sân bóng rổ và khu rèn luyện thể chất ngoài trời mở cửa phục vụ sinh viên rèn luyện sức khỏe sau giờ học tập căng thẳng.,120,27,False,thuc_hanh
+HUIT_088,HUIT-verified-curated,"Phòng dịch vụ một cửa hỗ trợ sinh viên in bảng điểm, xin xác nhận giấy tờ và cấp lại thẻ sinh viên bị mất nhanh chóng.",118,27,False,thuc_hanh
+HUIT_089,HUIT-verified-curated,Trung tâm Thông tin và Thư viện mở cửa phục vụ từ thứ Hai đến thứ Bảy hàng tuần trong suốt các kỳ học chính.,108,25,False,thuc_hanh
+HUIT_090,HUIT-verified-curated,Hệ thống camera an ninh được lắp đặt tại các hành lang và khu vực công cộng nhằm đảm bảo an ninh trật tự toàn trường.,117,26,False,thuc_hanh
+HUIT_091,HUIT-verified-curated,Trung tâm Đổi mới sáng tạo và Khởi nghiệp HUIT hỗ trợ sinh viên phát triển các ý tưởng và dự án nghiên cứu khởi nghiệp khả thi.,127,28,False,thuc_hanh
+HUIT_092,HUIT-verified-curated,Ngày hội việc làm thường niên quy tụ hàng trăm doanh nghiệp uy tín đến phỏng vấn và tuyển dụng trực tiếp sinh viên chuẩn bị tốt nghiệp.,135,28,False,thuc_hanh
+HUIT_093,HUIT-verified-curated,Trường ký kết thỏa thuận hợp tác chiến lược với nhiều tập đoàn trong và ngoài nước để gửi sinh viên đến thực tập chuyên môn.,124,26,False,thuc_hanh
+HUIT_094,HUIT-verified-curated,"Các buổi hội thảo chuyên đề kỹ năng viết CV, phỏng vấn xin việc và định hướng nghề nghiệp được tổ chức định kỳ mỗi tháng.",121,26,False,thuc_hanh
+HUIT_095,HUIT-verified-curated,Mạng lưới cựu sinh viên HUIT tích cực kết nối và tạo cơ hội việc làm phong phú cho các thế hệ sinh viên khóa sau.,113,26,False,thuc_hanh
+HUIT_096,HUIT-verified-curated,Nhiều doanh nghiệp đối tác tài trợ phòng thí nghiệm thực hành chuyên ngành và cung cấp học bổng tài năng cho sinh viên xuất sắc.,128,26,False,thuc_hanh
+HUIT_097,HUIT-verified-curated,"Sinh viên tốt nghiệp từ HUIT được các nhà tuyển dụng đánh giá cao về tinh thần kỷ luật, kỹ năng thực hành và sự nhiệt huyết.",124,27,False,thuc_hanh
+HUIT_098,HUIT-verified-curated,"Chương trình trao đổi sinh viên quốc tế với các trường đại học tại Đài Loan, Nhật Bản và Hàn Quốc mở rộng cơ hội học tập.",121,27,False,thuc_hanh
+HUIT_099,HUIT-verified-curated,Các dự án nghiên cứu khoa học sinh viên gắn liền với việc giải quyết các bài toán kỹ thuật thực tiễn của doanh nghiệp ngành thực phẩm.,134,28,False,thuc_hanh
+HUIT_100,HUIT-verified-curated,Bộ phận quan hệ doanh nghiệp liên tục cập nhật các vị trí tuyển dụng thực tập sinh và nhân viên chính thức trên fanpage trường.,127,26,False,thuc_hanh
+VSFC_001,UIT-VSFC,có thêm các mô hình thực tế cho sinh viên .,43,11,False,student_feedback
+VSFC_002,UIT-VSFC,"học phòng elab quá rộng , phân tán sinh viên làm giảng viên khó tương tác trực tiếp với sinh viên .",99,22,False,student_feedback
+VSFC_003,UIT-VSFC,"giáo viên luôn chia sẻ những ứng dụng của kiến thức đã học với thực tiễn , chia sẻ khá nhiều kinh nghiệm thực tế vô cùng bổ ích với sinh viên .",143,33,False,student_feedback
+VSFC_004,UIT-VSFC,nên nhiều khi không hiểu thầy đang giảng gì .,45,10,False,student_feedback
+VSFC_005,UIT-VSFC,"cô wzjwz257 dạy giải tích 2 rất chuẩn , truyền đạt tốt , dễ hiểu , rất hăng hái trong quá trình phân tích bài giảng , gửi tài liệu và bài tập đầy đủ , nhưng cô dạy có hơi nhanh .",178,43,False,student_feedback
+VSFC_006,UIT-VSFC,nên tạo động lực để sinh viên tham gia năng nổ đóng góp buổi học .,66,16,False,student_feedback
+VSFC_007,UIT-VSFC,"hi vọng thầy có thể dạy cho chúng em về c kỹ càng hơn , thay vì dạy về c , để chúng em có thể hiểu được bản chất của lập trình , giúp cho chúng em đi lên từ nền tảng vững chắc .",177,46,False,student_feedback
+VSFC_008,UIT-VSFC,"giảng viên tận tâm , nhiệt tình , khả năng truyền đạt tốt .",59,14,False,student_feedback
+VSFC_009,UIT-VSFC,nên đặt deadline là 11doubledot55 pm thay vì 12doubledot00 am nhiều khi nhìn lịch ở ngoài bị nhầm làm miss deadline nhiều lần .,127,24,False,student_feedback
+VSFC_010,UIT-VSFC,lắng nghe ý kiến của sinh viên trong quá trình học .,52,12,False,student_feedback
+VSFC_011,UIT-VSFC,biết ứng dụng kiến thức đã học vào thực tiễn tạo hứng thú cho sinh viên .,73,17,False,student_feedback
+VSFC_012,UIT-VSFC,thầy rất hiền và kiên trì giảng dạy cho lớp mặc dù môn học này đối với em không được hứng thú lắm .,99,24,False,student_feedback
+VSFC_013,UIT-VSFC,"cô giáo nhiệt tình , tận tâm với lớp , truyền đạt hay .",55,14,False,student_feedback
+VSFC_014,UIT-VSFC,"giảng viên nhiệt tình , gần gũi với sinh viên .",47,11,False,student_feedback
+VSFC_015,UIT-VSFC,"thầy tận tâm , nhiệt tình trong giảng dạy .",43,10,False,student_feedback
+VSFC_016,UIT-VSFC,cô rất tận tình giúp đỡ chúng em trong học tập .,48,12,False,student_feedback
+VSFC_017,UIT-VSFC,có thể do đặc thù môn học với cách giảng dạy nên hơi khó hiểu .,63,16,False,student_feedback
+VSFC_018,UIT-VSFC,"giảng viên nhiệt tình , giải đáp cụ thể các thắc mắc của sinh viên .",68,16,False,student_feedback
+VSFC_019,UIT-VSFC,"cập nhật slide mới , tài liệu slide cũ có nhiều điểm khác slide mới không cập nhât đúng thứ tự , ví dụ .",104,25,False,student_feedback
+VSFC_020,UIT-VSFC,không giải đáp thắc mắc của sinh viên mà bắt tự tìm hiểu .,58,14,False,student_feedback
+VSFC_021,UIT-VSFC,"tăng thời lượng môn học , nên có thêm những hoạt động ngoại khóa có liên quan đến môn anh văn để sinh viên được trau dồi thêm .",127,29,False,student_feedback
+VSFC_022,UIT-VSFC,thầy truyền được lửa cho sinh viên rất nhiều .,46,10,False,student_feedback
+VSFC_023,UIT-VSFC,cần cung cấp thêm tài liệu cho sinh viên thông qua website môn học .,68,15,False,student_feedback
+VSFC_024,UIT-VSFC,giảng viên cung cấp khá đầy đủ kiến thức .,42,10,False,student_feedback
+VSFC_025,UIT-VSFC,rất nhiệt tình đặc biệt giảng dạy rất hiệu quả .,48,11,False,student_feedback
+VSFC_026,UIT-VSFC,"thầy tận tâm với học sinh , cung cấp tài liệu đầy đủ nhất có thể cho học sinh .",79,20,False,student_feedback
+VSFC_027,UIT-VSFC,"còn kiểm tra thì nên thuyết trình hoặc làm đề tài là hay nhất , đừng làm mấy bài kiểm tra làm chi , vừa chẳng khẳng định được người đó có kỹ năng chưa , chỉ chạy theo chỉ tiêu và nhồi sọ .",188,45,False,student_feedback
+VSFC_028,UIT-VSFC,giảng viên có kiến thức chuyên sâu vê môn học .,47,11,False,student_feedback
+VSFC_029,UIT-VSFC,"thầy rất thoải mải trò chuyện để giải quyết thắc mắc cho sinh viên , chỉ dẫn những cách làm bài dễ hiểu để cho sinh viên không bị vướng mắc .",141,32,False,student_feedback
+VSFC_030,UIT-VSFC,"vừa giúp cho bọn em nắm chắc kiến thức về môn học , vừa giúp bọn em tự tin hơn về kỹ năng cá nhân của mình .",108,28,False,student_feedback
+VSFC_031,UIT-VSFC,đặc biệt hơn là thầy đã bỏ rất nhiều công sức trong việc ra bài tập và chấm điểm một cách rõ ràng và minh bạch .,112,27,False,student_feedback
+VSFC_032,UIT-VSFC,thực hành ngay trên lớp lý thuyết thì sẽ hay hơn .,50,12,False,student_feedback
+VSFC_033,UIT-VSFC,"giải thích rõ nội dung của mỗi bài trước khi thực hành , giải đáp các thắc mắc của sinh viên trong quá trình thực hành .",120,27,False,student_feedback
+VSFC_034,UIT-VSFC,thầy luôn thúc giục học sinh cố gắng trong học tập .,52,12,False,student_feedback
+VSFC_035,UIT-VSFC,"giảng viên truyền đạt rất dễ hiểu , thân thiện , vui vẻ và rất tận tình với sinh viên .",87,21,False,student_feedback
+VSFC_036,UIT-VSFC,"nên thay đổi việc làm đồ án cuối kỳ doubledot không nên cho sinh viên làm đồ án tự do nữa quản lý , game , nghe nhạc vdotv mà giảng viên nên ra một đồ án có chủ đề thống nhất .",176,43,False,student_feedback
+VSFC_037,UIT-VSFC,"thầy dạy thì nên dạy sớm để dễ học , dễ nhớ , ban đầu thầy ít dạy vào kiến thức chính , đến giai đoạn cuối của kỳ là khi bận rộn nhiều thì thấy mới bắt đầu dạy kiến thức .",171,43,False,student_feedback
+VSFC_038,UIT-VSFC,cô nên cập nhật lại kiến thức mới nhất trong slide bài giảng .,62,14,False,student_feedback
+VSFC_039,UIT-VSFC,"thầy nhiệt tình , vui vẻ , giảng dạy kỹ những phần quan trọng .",63,15,False,student_feedback
+VSFC_040,UIT-VSFC,"nhiệt tình , dễ gần , hình thức giảng dạy dễ hiểu .",51,13,False,student_feedback
+VSFC_041,UIT-VSFC,có một bạn trong phòng của em học thầy ở học kỳ trước hâm mộ thầy !,67,17,False,student_feedback
+VSFC_042,UIT-VSFC,"giảng viên nhiệt tình , có kết hợp với doanh nghiệp để seminar về kỹ năng giao tiếp .",85,19,False,student_feedback
+VSFC_043,UIT-VSFC,thầy cô giáo dạy rất nhiệt tình và vui vẻ .,43,11,False,student_feedback
+VSFC_044,UIT-VSFC,"mỗi bài học , mỗi buổi học thầy đều liên hệ thực tế với các cách thức mà các công ty bên ngoài thường làm .",107,26,False,student_feedback
+VSFC_045,UIT-VSFC,"nội dung môn học không thừa , không thiếu .",43,10,False,student_feedback
+VSFC_046,UIT-VSFC,"tâm huyến , muốn truyền đạt hết kiến thức cho sinh viên .",57,13,False,student_feedback
+VSFC_047,UIT-VSFC,đôi lúc chưa đi sâu vào vấn đề giảng dạy .,42,11,False,student_feedback
+VSFC_048,UIT-VSFC,"thầy dạy quá nhanh , dồn kiến thức quá nhiều , phương pháp giảng chưa hợp lý .",78,18,False,student_feedback
+VSFC_049,UIT-VSFC,các hoạt động thi đua các nhóm trên lớp với nhau .,50,12,False,student_feedback
+VSFC_050,UIT-VSFC,bổ sung thêm slide và giáo trình tiếng việt .,45,10,False,student_feedback
+VSFC_051,UIT-VSFC,"chấm đồ án doubledot chấm không công bằng , không thể lấy lý do không thích tính cách của sinh viên mà không cho sinh viên đậu , mặc dù đồ án hoàn thành tốt .",158,36,False,student_feedback
+VSFC_052,UIT-VSFC,"thầy không hề giảng dạy bất cứ kiến thức gì , chủ yếu đưa lên module và bắt sinh viên tự tiềm hiểu .",100,24,False,student_feedback
+VSFC_053,UIT-VSFC,"nhiệt tình với sinh viên , đảm bảo giờ lên lớp , có hệ thống website môn học dễ sử dụng .",89,22,False,student_feedback
+VSFC_054,UIT-VSFC,cô dạy nhẹ nhàng không gay gắt hay hung dữ .,44,11,False,student_feedback
+VSFC_055,UIT-VSFC,"phần quản lý thao tác của oracle , giảng viên cung cấp tài liệu quản lý thao tác của sql server .",97,22,False,student_feedback
+VSFC_056,UIT-VSFC,thầy nhiệt huyết và giảng bao quát đề cập đến nhiều khía cạnh của bài học vấn đề .,82,19,False,student_feedback
+VSFC_057,UIT-VSFC,cần sắp xếp phòng học cho phù hợp với số lượng sinh viên để sinh viên tiếp thu tốt hơn .,88,21,False,student_feedback
+VSFC_058,UIT-VSFC,cho đồ án môn này để sinh viên nghiên cứu .,43,11,False,student_feedback
+VSFC_059,UIT-VSFC,"những sinh viên được lòng giảng viên trên lớp sẽ qua môn một cách dễ dàng , còn những sinh viên còn lại chỉ cần sai sót nhỏ sẽ rớt môn .",136,32,False,student_feedback
+VSFC_060,UIT-VSFC,giảng viên wzjwz229 không dạy mà chỉ có thầy wzjwz230 thôi nên không biết nhận xét .,84,17,False,student_feedback
+VSFC_061,UIT-VSFC,"thầy dạy kỹ , dễ hiểu , minh họa lý thuyết kỹ , liên tưởng thực tế .",68,18,False,student_feedback
+VSFC_062,UIT-VSFC,"cô wzjwz226 rất tâm huyết với sinh viên , tận tâm , giảng bài có hiệu quả .",75,18,False,student_feedback
+VSFC_063,UIT-VSFC,"bài tập nhiều để vận dụng , tăng thêm giờ học .",47,12,False,student_feedback
+VSFC_064,UIT-VSFC,"thầy dạy hay , quan tâm học sinh , nhiệt tình .",47,12,False,student_feedback
+VSFC_065,UIT-VSFC,nhóm trưởng không làm thì đồ án bỏ không .,42,10,False,student_feedback
+VSFC_066,UIT-VSFC,sẵn sàng trả lời mọi thắc mắc của sinh viên .,45,11,False,student_feedback
+VSFC_067,UIT-VSFC,sẵn sàng giải đáp tận tình mọi thắc mắc của sinh viên khi được hỏi .,68,16,False,student_feedback
+VSFC_068,UIT-VSFC,"thầy ra nhiều bài tập , sửa chữa lỗi , dạy dễ hiểu .",52,14,False,student_feedback
+VSFC_069,UIT-VSFC,"không biết thầy nào dạy chính thức , mà học thường nghỉ không thông báo trước để sinh viên đứng chờ sắp hết tiết rồi tự về nhiều lần .",134,30,False,student_feedback
+VSFC_070,UIT-VSFC,vì tính cô kỹ nên đôi lúc nói quá nhiều về một vấn đề ( lặp đi lặp lại ) làm mất thời gian trên lớp và sử dụng giờ học không hiệu quả .,135,35,False,student_feedback
+VSFC_071,UIT-VSFC,cô nói hơi khó nghe và những điều học được ít gây được hứng thú nơi sinh viên .,79,19,False,student_feedback
+VSFC_072,UIT-VSFC,giảng viên tận tâm giúp sinh viên học tập .,43,10,False,student_feedback
+VSFC_073,UIT-VSFC,thuộc bài một cách máy móc và trình bày không tự nhiên nhưng điểm vẫn cao .,75,17,False,student_feedback
+VSFC_074,UIT-VSFC,"nên xắp xếp lịch báo cáo , thuyết trình một cách cụ thể , giúp cho sinh viên chủ động được thời gian cũng như nắm bắt được kiến thức cụ thể của từng buổi .",155,36,False,student_feedback
+VSFC_075,UIT-VSFC,chưa áp dụng công nghệ thông tin và các thiết bị hỗ trợ cho việc giảng dạy .,76,18,False,student_feedback
+VSFC_076,UIT-VSFC,giảm bớt thời gian phần speaking bắt kịp tốc độ giảng dạy .,59,13,False,student_feedback
+VSFC_077,UIT-VSFC,cô thường xuyên cung cấp bài tập và kiến thức thực tiễn mà các doanh nghiệp dùng để kiểm tra và giảng bài kỹ càng chi tiết .,124,28,False,student_feedback
+VSFC_078,UIT-VSFC,"cho nghỉ nhiều , học bù trùng lịch với môn khác .",49,12,False,student_feedback
+VSFC_079,UIT-VSFC,"giảng viên giảng dạy tận tình , vui vẻ giúp học viên nhận thức được nhiều kiến thức .",85,19,False,student_feedback
+VSFC_080,UIT-VSFC,"cách dạy hài hước , không gây buồn ngủ .",40,10,False,student_feedback
+VSFC_081,UIT-VSFC,deadline quá nhiều và khoảng cách giữa các bài deadline quá gần .,65,13,False,student_feedback
+VSFC_082,UIT-VSFC,thầy cho rất nhiều bài tập đảm bảo lượng kiến thức đủ cho sinh viên giảng dạy rất nhiệt tình .,94,21,False,student_feedback
+VSFC_083,UIT-VSFC,"trang thiết bị cần được hỗ trợ tốt hơn , chất lượng máy chiếu không được như ý , khá mờ làm chất lượng thuyết trình và việc giảng dạy không được tốt .",150,34,False,student_feedback
+VSFC_084,UIT-VSFC,"nhiệt tình , quan tâm chia sẻ với sinh viên .",45,11,False,student_feedback
+VSFC_085,UIT-VSFC,"cách dạy thiếu khoa học , cứng nhắc , quá áp đặt , không thu hút , gó bó tư duy của sinh viên .",95,25,False,student_feedback
+VSFC_086,UIT-VSFC,phòng học và các thiết bị giảng dạy cần được nâng cấp tốt hơn .,63,15,False,student_feedback
+VSFC_087,UIT-VSFC,mong thầy giảng bài và trả lời câu hỏi đúng trọng tâm và mong muốn của sinh viên .,82,19,False,student_feedback
+VSFC_088,UIT-VSFC,cô là giáo viên có tâm và nhiệt huyết nhất em từng gặp .,56,14,False,student_feedback
+VSFC_089,UIT-VSFC,thầy dạy quá chi tiết với đồ án thầy hướng dân hết rồi không có gì để làm nữa .,79,20,False,student_feedback
+VSFC_090,UIT-VSFC,giảng viên cho về sớm hơn giờ quy định .,40,10,False,student_feedback
+VSFC_091,UIT-VSFC,"thời gian học quá trễ , sinh viên chất lượng cao không về được xe trường vốn là quyền lợi của sinh viên chất lượng cao , sinh viên không kịp thời gian đi học thêm sau thời gian học về đến trung tâm thành phố sau 7h .",216,49,False,student_feedback
+VSFC_092,UIT-VSFC,"thầy vui tính , dạy dễ hiểu , lấy ví dụ thực tiễn .",51,14,False,student_feedback
+VSFC_093,UIT-VSFC,"lên lớp ai làm việc người ấy , thầy không có giảng gì thêm .",60,15,False,student_feedback
+VSFC_094,UIT-VSFC,"có thể nói học nhập môn lập trình gặp được cô là một điều vô cùng may mắn , cảm ơn cô nhiều .",93,24,False,student_feedback
+VSFC_095,UIT-VSFC,"giáo viên giảng dạy nhiệt tình , tạo được hứng thú cho sinh viên .",66,15,False,student_feedback
+VSFC_096,UIT-VSFC,"giảng dạy cứng nhắc , áp đặp , không thu hút , gò bó sinh viên .",64,17,False,student_feedback
+VSFC_097,UIT-VSFC,"dạy chậm về kiến thức , chưa hoàn tất chuyển c sang cplusplus .",63,14,False,student_feedback
+VSFC_098,UIT-VSFC,"thầy vui tính , giảng hay , nhiệt huyết với các bạn .",53,13,False,student_feedback
+VSFC_099,UIT-VSFC,cần phân chia hai giảng viên cho từng dãy bàn để tăng khả năng tương tác với sinh viên .,88,20,False,student_feedback
+VSFC_100,UIT-VSFC,môn này em bị trùng lịch học do lịch thực hành hình thức 2 được công bố sau vì thế mà thời gian đi học thực hành của em cũng bị hạn chế .,137,34,False,student_feedback
