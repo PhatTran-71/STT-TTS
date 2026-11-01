@@ -1,62 +1,40 @@
 # E1 — ASR Benchmark: VIVOS + HUIT-Audio
 
-## Mô tả
+## 1. Mô tả
 Thí nghiệm đánh giá 3 model ASR tiếng Việt trên 2 tập dữ liệu:
-- **VIVOS test** (benchmark công khai, ~760 utterances)
-- **HUIT-Audio** (120 câu hỏi miền HUIT, 16kHz Mono WAV)
+- **HUIT-Audio:** 120 câu truy vấn âm thanh miền HUIT (16kHz Mono WAV, 16-bit PCM).
+  - 30 câu người thật (đã đủ từ `huit_001.wav` đến `huit_030.wav`).
+  - 90 câu tổng hợp từ `VieNeu-TTS-v3-Turbo` (từ `huit_031.wav` đến `huit_120.wav`).
+- **VIVOS test:** Benchmark tiếng Việt công khai chuẩn (760 utterances).
 
-## 3 Model ASR
-| Model | HuggingFace ID |
-|---|---|
-| PhoWhisper-base (Baseline) | `vinai/PhoWhisper-base` |
-| Whisper-small | `openai/whisper-small` |
-| PhoWhisper-small | `vinai/PhoWhisper-small` |
+## 2. 3 Model ASR Bắt Buộc
+| Model | HuggingFace ID | Vai trò |
+|---|---|---|
+| PhoWhisper-base | `vinai/PhoWhisper-base` | Baseline báo cáo chính |
+| Whisper-small | `openai/whisper-small` | Baseline bổ sung 1 |
+| PhoWhisper-small | `vinai/PhoWhisper-small` | Baseline bổ sung 2 |
 
-## Fairness Protocol
-- FP16 CUDA trên Google Colab T4
-- Beam size = 5, language = 'vi'
-- Cùng text normalizer cho tất cả model
-- Warm-up 10 samples, không tính vào kết quả
-- Không dùng VAD trên VIVOS
+## 3. Fairness Protocol
+- FP16 CUDA trên Google Colab GPU T4
+- Beam size = 5, language = 'vi', task = 'transcribe'
+- Dùng chung text normalizer tiếng Việt
+- Warm-up 10 samples (không tính vào chỉ số đo)
+- Bootstrap 95% Confidence Interval (1000 resamples)
 
-## Metrics
-- WER (%), CER (%) với Bootstrap 95% CI (1000 resamples)
-- RTF (Real-Time Factor)
-- p50/p95 Latency (ms)
-- Peak VRAM (MB)
-
-## Cấu trúc thư mục
+## 4. Cấu trúc thư mục
 ```
 Speech To Text/
-├── README.md                             ← File này
-├── EXPERIMENT_PLAN_VI.md                 ← Kế hoạch thí nghiệm đầy đủ
-│
+├── README.md                             ← File mô tả
+├── EXPERIMENT_PLAN_VI.md                 ← Kế hoạch thí nghiệm gốc
 ├── code/
-│   ├── ASR_Benchmark_HUIT.ipynb          ← Notebook benchmark (chạy trên Colab)
-│   ├── HUIT_Audio_Generator_VieNeu.ipynb ← Notebook tạo audio TTS
-│   └── TTS.ipynb                         ← Notebook TTS gốc (tham khảo)
-│
+│   ├── ASR_Benchmark_HUIT.ipynb          ← Notebook benchmark chính (chạy trên Colab)
+│   ├── HUIT_Audio_Generator_VieNeu.ipynb ← Notebook sinh audio tổng hợp
+│   └── TTS.ipynb                         ← Notebook TTS tham khảo
 ├── data/
-│   ├── HUIT_Audio_120_Queries.xlsx       ← Metadata 120 câu (transcript, speaker, topic...)
-│   ├── HUIT_Audio_120_Queries.docx       ← Bản Word phân phối thu âm
-│   └── huit_audio_120/                   ← 116 file WAV (26 human + 90 VieNeu TTS)
-│
-└── results/                              ← Kết quả benchmark (sau khi chạy xong trên Colab)
-    ├── huit_audio_results.csv
-    ├── vivos_test_results.csv
-    └── summary_table.csv
+│   ├── HUIT_Audio_120_Queries.xlsx       ← File metadata 120 câu
+│   ├── HUIT_Audio_120_Queries.docx       ← Bản Word phân phối người đọc
+│   ├── huit_audio_120.zip                ← File nén 120 WAV để upload Colab
+│   └── huit_audio_120/                   ← Thư mục chứa đủ 120 file WAV 16kHz
+└── results/                              ← Kết quả xuất ra từ Colab (CSV, JSONL)
 ```
-
-## Cách chạy lại
-1. Upload `ASR_Benchmark_HUIT.ipynb` lên Google Colab
-2. Chọn Runtime > T4 GPU
-3. Upload thư mục `huit_audio_120/` (hoặc zip) lên Colab
-4. Chạy lần lượt Cell 1 → Cell 6
-5. Kết quả tự động tải về dạng ZIP
-
-## Dataset HUIT-Audio
-- 120 câu hỏi tiếng Việt về HUIT (tuyển sinh, học phí, quy chế, đặc thù HUIT)
-- 26 file thu từ người thật + 90 file tạo bởi VieNeu-TTS-v3-Turbo
-- Thiếu 4 file (huit_027 → huit_030): bạn thu âm chỉ gửi 26/30 file
-- Format: WAV, 16kHz, Mono, PCM 16-bit
 
